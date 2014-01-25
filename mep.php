@@ -67,15 +67,20 @@
       });
       
       //function calculate score
-      function scoreit(mepvotes,campaign ) {
+      /*function scoreit(mepvotes,topics ) {
         //reorder campaign data for easier access
-        ncampaign = new Object;
-        $.each(campaign, function (i, v) {
-        
+        votings = new Object;
+        $.each(topics, function (i0, v0) {
+          $.each(v0.votings, function (i, v) {
+            votings[v.v_dbid] = v;
+          )}
         }
+        wsum = 0;
+        vsum = 0;
         $.each(mepvotes, function( index, value ) {
+          
         });
-      }
+      }*/
 	</script>
 	
 </head>
