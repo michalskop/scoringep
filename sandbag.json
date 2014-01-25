@@ -11,13 +11,13 @@
         description: "We collected the main topics...",
         link: "",
         logo: "",
-        limits: {
-            20: ' is a fucken climate killer.',
-            40: ' is rather a climate killer.',
-            60: ' is not yet decided on the climate.',
-            80: ' is rather climate-friendly.',
-            100: 'is a climate friend.'
-        }
+        limits: [
+            {'upper': 20, 'text': ' is a fucken climate killer.'},
+            {'upper': 40, 'text': ' is rather a climate killer.'},
+            {'upper': 60, 'text': ' is not yet decided on the climate.'},
+            {'upper': 80, 'text': ' is rather climate-friendly.'},
+            {'upper': 100, 'text': 'is a climate friend.'}
+        ]
     },
     topics: [
         {
