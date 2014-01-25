@@ -21,7 +21,7 @@
 	    float: left;
 	    font-weight: bold;
 	    padding: .5em;
-	    background-color: yellow;
+	    background-color: #ccc;
 	    margin-right: .5em;
 	    font-size: 1.25em;
 	  }
@@ -31,14 +31,21 @@
 	  #mepFlag img {
 	    margin-bottom: 0.35em;
 	  }
+	  
+	  h2 {
+	    background-color: #ccc;
+	  }
+	  
 	</style>
 	
 	<script>
+	  var mepid = getParameter('id');
+	  
 	  $( document ).delegate("#mepPage", "pageinit", function() {
 	    //get details about MEP
         $.ajax({ 
             type: 'GET', 
-            url: 'mep_detail_json.php?mepid=234&v_dbids=4995,2636,220,3708,5276,2189,2340,3082,4096,5004', 
+            url: 'mep_detail_json.php?mepid=' + mepid + '&v_dbids=4995,2636,220,3708,5276,2189,2340,3082,4096,5004', 
             //data: { get_param: 'value' }, 
             dataType: 'json',
             success: function (data) { 
@@ -79,7 +86,22 @@
             }
         });
       });
+
+      //get url params
       
+      function getParameter(paramName) {
+          var searchString = window.location.search.substring(1),
+              i, val, params = searchString.split("&");
+        
+          for (i=0;i<params.length;i++) {
+            val = params[i].split("=");
+            if (val[0] == paramName) {
+              return unescape(val[1]);
+            }
+          }
+          return null;
+      }
+
       //gets the color and description based on the score
       function score2cd (score,limits) {
         out = new Object;
@@ -120,7 +142,7 @@
 <body>
 <div data-role="page" class="jqm-demos" data-quicklinks="false" id="mepPage">
 	<div data-role="header" class="jqm-header">
-		<h2><img src="logo.png" alt="Scoring EP" id="logo"></h2>
+		<h2><img alt="Scoring EP" id="logo"></h2>
 		<p>Version 0</p>
 	</div><!-- /header -->
 	
