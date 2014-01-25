@@ -38,7 +38,7 @@
 	    //get details about MEP
         $.ajax({ 
             type: 'GET', 
-            url: 'mep_detail_json.php?mepid=565&v_dbids=4995,2636,220,3708,5276,2189,2340,3082,4096,5004', 
+            url: 'mep_detail_json.php?mepid=234&v_dbids=4995,2636,220,3708,5276,2189,2340,3082,4096,5004', 
             //data: { get_param: 'value' }, 
             dataType: 'json',
             success: function (data) { 
@@ -69,12 +69,27 @@
                     dataType: 'json',
                     success: function (cdata) {
                       $('#logo').attr('src',cdata.organization.logo);
-                      $('#totalScore').html(scoreit(data[0].votes,cdata.topics));
+                      score = scoreit(data[0].votes,cdata.topics);
+                      $('#totalScore').html(score);
+                      limitinfo = score2cd(score,cdata.score.limits);
+                      $('#mepText').html(limitinfo.text);
+                      $('#totalScore').css('background-color',limitinfo.color);
                     }
                });
             }
         });
       });
+      
+      //gets the color and description based on the score
+      function score2cd (score,limits) {
+        out = new Object;
+        out.color = 'gray';
+        out.text = ' is a great guy';
+        for (i = 0; i < limits.length; i++) {
+          if (score <= limits[i].upper) return limits[i];
+        }
+        return out;
+      }
       
       //function calculate score
       function scoreit(mepvotes,topics ) {
@@ -111,7 +126,7 @@
 	
 	<div role="main" class="ui-content jqm-content">
 
-		<h1><div class="score" title="Total score" id="totalScore">-</div><span id="mepPhoto"></span><strong><span id="mepname"></span><span id="mepFlag"></span></strong> is rather a climate killer.</h1>
+		<h1><div class="score" title="Total score" id="totalScore">-</div><span id="mepPhoto"></span><strong><span id="mepname"></span><span id="mepFlag"></span></strong><span id="mepText"></span></h1>
 		
 
 		
