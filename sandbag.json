@@ -1,115 +1,114 @@
 {
-    language: "en", 
-    organization: {
-        title: "Sandbag",
-        description: "Sandbag was founded on this simple idea: Put your effort where it makes the biggest impact.<br />For all of us who see the exciting potential of a clean, renewable future and the corresponding threat of climate change 'meltdown', it can be frustrating that things aren't moving faster. We 'do our bit' but individuals' efforts don't add up to a clean energy revolution.",
-        link: "http://www.sandbag.org.uk/",
-        logo: "http://www.sandbag.org.uk/site_media/images/sandbag_logo_transparent.png"
+    "language": "en", 
+    "organization": {
+        "title": "Sandbag",
+        "description": "Sandbag was founded on this simple idea: Put your effort where it makes the biggest impact.<br />For all of us who see the exciting potential of a clean, renewable future and the corresponding threat of climate change 'meltdown', it can be frustrating that things aren't moving faster. We 'do our bit' but individuals' efforts don't add up to a clean energy revolution.",
+        "link": "http://www.sandbag.org.uk/",
+        "logo": "http://www.sandbag.org.uk/site_media/images/sandbag_logo_transparent.png"
     },
-    score: {
-        title: "Is your MEP climate friendly?",
-        description: "We collected the main topics...",
-        link: "",
-        logo: "",
-        limits: {
-            20: ' is a fucken climate killer.',
-            40: ' is rather a climate killer.',
-            60: ' is not yet decided on the climate.',
-            80: ' is rather climate-friendly.',
-            100: 'is a climate friend.'
+    "score": {
+        "title": "Is your MEP climate friendly?",
+        "description": "We collected the main topics...",
+        "link": "",
+        "logo": "",
+        "limits": {
+            "20": " is a fucken climate killer.",
+            "40": " is rather a climate killer.",
+            "60": " is not yet decided on the climate.",
+            "80": " is rather climate-friendly.",
+            "100": "is a climate friend."
         }
     },
-    topics: [
+    "topics": [
         {
-        order: 1,
-        title: "Climate",
-        description: "",
-        weight: 0,
-        image: "",
-        votings: [
+        "order": 1,
+        "title": "Climate",
+        "description": "",
+        "weight": 0,
+        "image": "",
+        "votings": [
                 {
-                    v_id: "B7-0482/2013|§ 8 - AM 6D",           // as defined by the EP  B7-0482/2013 Am 6 S
-                    v_dbid: 4995,
-                    v_weight: 1,
-                    v_title: "The climate change conference in Warsaw, Poland (COP 19) ",
-                    v_description: "Given the pre-2020 emission gap, CAN Europe calls upon the EU to increase its longer term ambition level and adopt a greenhouse gas emission reduction target of at least -55% by 2030. Only such an ambitious target will really ensure the EU can take a leadership role in the international negotiations on a new international climate agreement.<br />In its resolution on the 2013 UNFCCC conference in Warsaw, the EP rapporteur proposed to substantially increase the 40% milestone as currently identified by the European Commission in their low carbon roadmap to a 50% target. An amendment was tabled to delete this paragraph meaning the EP would not call for more ambitious targets. We included the vote on this amendment in the overview.",
-                    v_recommendation: -1 // 1: yes, -1: no
+                    "v_id": "B7-0482/2013|§ 8 - AM 6D",
+                    "v_dbid": 4995,
+                    "v_weight": 1,
+                    "v_title": "The climate change conference in Warsaw, Poland (COP 19) ",
+                    "v_description": "Given the pre-2020 emission gap, CAN Europe calls upon the EU to increase its longer term ambition level and adopt a greenhouse gas emission reduction target of at least -55% by 2030. Only such an ambitious target will really ensure the EU can take a leadership role in the international negotiations on a new international climate agreement.<br />In its resolution on the 2013 UNFCCC conference in Warsaw, the EP rapporteur proposed to substantially increase the 40% milestone as currently identified by the European Commission in their low carbon roadmap to a 50% target. An amendment was tabled to delete this paragraph meaning the EP would not call for more ambitious targets. We included the vote on this amendment in the overview.",
+                    "v_recommendation": -1
                 },
                 {
-                    v_id: "A7-0033/2012 - Chris Davies - Am 1/2",           // as defined by the EP
-                    v_dbid: 2636,
-                    v_weight: 0.8,
-                    v_title: "Roadmap for moving to a competitive low carbon economy in 2050",
-                    v_description: "CAN Europe regrets the lack of ambition of the EU greenhouse gas emission reduction target for 2020. By refusing to move to its conditional 30% target EU Member States are failing to take adequate measures to ensure the EU's fair contribution to global efforts to keep temperature rise below 2°C. Given that in 2012 EU domestic emissions have fallen to -18% and when including international offsets emission have even fallen to -27%, CAN Europe calls upon the EU to adopt a domestic emission reduction target of -30% by 2020 and when including international credits the EU should move to -40%.<br />In the framework of the EP's discussion on the European Commission's 2050 Low Carbon Roadmap, an amendment was tabled that called for increasing the EU's 2020 ambition (not up to the level CAN Europe is calling for but at least moving in the right direction). We included the vote on this amendment in the overview.",
-                    v_recommendation: 1
+                    "v_id": "A7-0033/2012 - Chris Davies - Am 1/2",
+                    "v_dbid": 2636,
+                    "v_weight": 0.8,
+                    "v_title": "Roadmap for moving to a competitive low carbon economy in 2050",
+                    "v_description": "CAN Europe regrets the lack of ambition of the EU greenhouse gas emission reduction target for 2020. By refusing to move to its conditional 30% target EU Member States are failing to take adequate measures to ensure the EU's fair contribution to global efforts to keep temperature rise below 2°C. Given that in 2012 EU domestic emissions have fallen to -18% and when including international offsets emission have even fallen to -27%, CAN Europe calls upon the EU to adopt a domestic emission reduction target of -30% by 2020 and when including international credits the EU should move to -40%.<br />In the framework of the EP's discussion on the European Commission's 2050 Low Carbon Roadmap, an amendment was tabled that called for increasing the EU's 2020 ambition (not up to the level CAN Europe is calling for but at least moving in the right direction). We included the vote on this amendment in the overview.",
+                    "v_recommendation": 1
                 },
                 {
-                    v_id: "B7-0141/2009/rev1 - Copenhagen Summit - resolution",           // as defined by the EP
-                    v_dbid: 220,
-                    v_weight: 0.9,
-                    v_title: "The EU strategy for the Copenhagen Conference on Climate Change (COP 15)",
-                    v_description: "For countries to adequately deal with the climate change challenge, they will need international agreements that ensure all governments contribute their fair share to ambitious climate action. The negotiations under the UNFCCC form the backbone of such agreements. There were huge expectations that through engaging political leaders the world could make a substantial step forward at the climate change summit in Copenhagen in December 2009. It turned out to be a small step.<br />The EU had an important role to play in Copenhagen, and the European Parliament resolution in preparation of Copenhagen highlighted a number of clear elements of that role, including the issue of the EU's contribution to the mitigation effort, the EU's contribution to financing climate action in poor countries, and the need to expand the legal regime with binding commitments from all countries. We have included the vote on the full resolution in this overview.",
-                    v_recommendation: 1
+                    "v_id": "B7-0141/2009/rev1 - Copenhagen Summit - resolution",
+                    "v_dbid": 220,
+                    "v_weight": 0.9,
+                    "v_title": "The EU strategy for the Copenhagen Conference on Climate Change (COP 15)",
+                    "v_description": "For countries to adequately deal with the climate change challenge, they will need international agreements that ensure all governments contribute their fair share to ambitious climate action. The negotiations under the UNFCCC form the backbone of such agreements. There were huge expectations that through engaging political leaders the world could make a substantial step forward at the climate change summit in Copenhagen in December 2009. It turned out to be a small step.<br />The EU had an important role to play in Copenhagen, and the European Parliament resolution in preparation of Copenhagen highlighted a number of clear elements of that role, including the issue of the EU's contribution to the mitigation effort, the EU's contribution to financing climate action in poor countries, and the need to expand the legal regime with binding commitments from all countries. We have included the vote on the full resolution in this overview.",
+                    "v_recommendation": 1
                 },
                 {
-                    v_id: "A7-0191/2012 - Bas Eickhout - Legislative resolution",           // as defined by the EP
-                    v_dbid: 3708,
-                    v_weight: 1,
-                    v_title: "Proposal for a regulation of the European Parliament and of the Council on a mechanism for monitoring and reporting greenhouse gas emissions and for reporting other information at national and Union level relevant to climate change",
-                    v_description: "The Mechanism for Monitoring and Reporting of greenhouse gas emissions is likely the most important legislative initiative on climate change policy of the current European Commission. It lays down some of the fundaments of how the EU will deal with its obligations under the climate and energy package as well as under the UNFCCC.<br />The European Parliament in its resolution and in the subsequent trialogue pushed the EU Member States to be more ambitious in its accounting, amongst other on emissions from agriculture and deforestation and on the provision of climate finance.",
-                    v_recommendation: 1
+                    "v_id": "A7-0191/2012 - Bas Eickhout - Legislative resolution",
+                    "v_dbid": 3708,
+                    "v_weight": 1,
+                    "v_title": "Proposal for a regulation of the European Parliament and of the Council on a mechanism for monitoring and reporting greenhouse gas emissions and for reporting other information at national and Union level relevant to climate change",
+                    "v_description": "The Mechanism for Monitoring and Reporting of greenhouse gas emissions is likely the most important legislative initiative on climate change policy of the current European Commission. It lays down some of the fundaments of how the EU will deal with its obligations under the climate and energy package as well as under the UNFCCC.<br />The European Parliament in its resolution and in the subsequent trialogue pushed the EU Member States to be more ambitious in its accounting, amongst other on emissions from agriculture and deforestation and on the provision of climate finance.",
+                    "v_recommendation": 1
                 },
                 {
-                    v_id: "A7-0046/2013 - Matthias Groote - Amended proposal",           // as defined by the EP
-                    v_dbid: 5276,
-                    v_weight: 0.8,
-                    v_title: "Proposal for a decision of the European Parliament and of the Council amending Directive 2003/87/EC clarifying provisions on the timing of auctions of greenhouse gas allowances",
-                    v_description: "The EU ETS, due to both the economic crisis and the massive use of cheap offsets, has been face with an oversupply of emission allowances which has reduced the price of carbon to 5 Euros/ton making the price signal of the ETS on investments completely meaningless. The Commission therefore started talking about needed structural reforms of the ETS and proposed a temporary measure to postpone bringing emission allowances on the market, better known as the backloading proposal, which would amend the ETS Directive.<br />We have included the vote on the amended proposal (the whole text after votes on individual amendments).",
-                    v_recommendation: 1
+                    "v_id": "A7-0046/2013 - Matthias Groote - Amended proposal",
+                    "v_dbid": 5276,
+                    "v_weight": 0.8,
+                    "v_title": "Proposal for a decision of the European Parliament and of the Council amending Directive 2003/87/EC clarifying provisions on the timing of auctions of greenhouse gas allowances",
+                    "v_description": "The EU ETS, due to both the economic crisis and the massive use of cheap offsets, has been face with an oversupply of emission allowances which has reduced the price of carbon to 5 Euros/ton making the price signal of the ETS on investments completely meaningless. The Commission therefore started talking about needed structural reforms of the ETS and proposed a temporary measure to postpone bringing emission allowances on the market, better known as the backloading proposal, which would amend the ETS Directive.<br />We have included the vote on the amended proposal (the whole text after votes on individual amendments).",
+                    "v_recommendation": 1
                 },
                 {
-                    v_id: "B7-0522/2011 - Resolution",           // as defined by the EP
-                    v_dbid: 2189,
-                    v_weight: 0.6,
-                    v_title: "Developing a common EU position ahead of the United Nations Conference on Sustainable Development (Rio+20)",
-                    v_description: "As climate change has and will have an enormous impact on poor peoples lives it is essential that climate change considerations are fully integrated in all development policies. At the Rio+20 summit in June 2012, governments discussed the issue of setting sustainable development goals in the context of the post-2015 development agenda.<br />We included the European Parliament vote on the full resolution on the Rio+20 summit given it contains multiple references to the integration of climate change in the development agenda.",
-                    v_recommendation: 1
+                    "v_id": "B7-0522/2011 - Resolution",
+                    "v_dbid": 2189,
+                    "v_weight": 0.6,
+                    "v_title": "Developing a common EU position ahead of the United Nations Conference on Sustainable Development (Rio+20)",
+                    "v_description": "As climate change has and will have an enormous impact on poor peoples lives it is essential that climate change considerations are fully integrated in all development policies. At the Rio+20 summit in June 2012, governments discussed the issue of setting sustainable development goals in the context of the post-2015 development agenda.<br />We included the European Parliament vote on the full resolution on the Rio+20 summit given it contains multiple references to the integration of climate change in the development agenda.",
+                    "v_recommendation": 1
                 },
                 {
-                    v_id: "B7-0571/2011 - § 38",           // as defined by the EP
-                    v_dbid: 2340,
-                    v_weight: 0.4,
-                    v_title: "The climate change conference in Durban (COP 17)",
-                    v_description: "Developed countries promised in Copenhagen to provide by 2020 100 billion USD a year to support climate action in developing countries. They also promised this money to be new and additional. Until now very little progress has been made in getting clarity on how the EU will deliver its fair share of the new and additional 100 billion by 2020.<br />We included the European Parliament vote on specific amendments that are calling for the EU to provide a clear pathway and ensure climate finance is new and additional.",
-                    v_recommendation: 1
+                    "v_id": "B7-0571/2011 - § 38",
+                    "v_dbid": 2340,
+                    "v_weight": 0.4,
+                    "v_title": "The climate change conference in Durban (COP 17)",
+                    "v_description": "Developed countries promised in Copenhagen to provide by 2020 100 billion USD a year to support climate action in developing countries. They also promised this money to be new and additional. Until now very little progress has been made in getting clarity on how the EU will deliver its fair share of the new and additional 100 billion by 2020.<br />We included the European Parliament vote on specific amendments that are calling for the EU to provide a clear pathway and ensure climate finance is new and additional.",
+                    "v_recommendation": 1
                 },
                 {
-                    v_id: "A7-0265/2012 - Claude Turmes - Single vote",           // as defined by the EP
-                    v_dbid: 3082,
-                    v_weight: 0.4,
-                    v_title: "Proposal for a directive of the European Parliament and of the Council on energy efficiency and repealing Directives 2004/8/EC and 2006/32/EC",
-                    v_description: "Reducing energy consumption is one of the most effective and least-cost measures to reduce greenhouse gas emissions, as well as support other objectves such as increasing employment, reducing energy bills and promoting energy security. The EU therefore adopted in 2007 a nnon- binding target to reduce energy consumption by 20% as compared to projected energy use levels. Given Member States were not on track to achieve this target, the European Commission developed the Energy Efficiency Directive which contains binding measures that should help achieve the target. <br />After the European Parliament adopted a position in its ITRE Committee, a trialogue with the European Commission and the European Council started and came to a compromise. It is this compromise that was tabled to the EP Plenary, and given its compromise nature, was supported by a large amount of MEPs, as a whole and therefore the vote on the full Directive is included in this overview.",
-                    v_recommendation: 1
+                    "v_id": "A7-0265/2012 - Claude Turmes - Single vote",
+                    "v_dbid": 3082,
+                    "v_weight": 0.4,
+                    "v_title": "Proposal for a directive of the European Parliament and of the Council on energy efficiency and repealing Directives 2004/8/EC and 2006/32/EC",
+                    "v_description": "Reducing energy consumption is one of the most effective and least-cost measures to reduce greenhouse gas emissions, as well as support other objectves such as increasing employment, reducing energy bills and promoting energy security. The EU therefore adopted in 2007 a nnon- binding target to reduce energy consumption by 20% as compared to projected energy use levels. Given Member States were not on track to achieve this target, the European Commission developed the Energy Efficiency Directive which contains binding measures that should help achieve the target. <br />After the European Parliament adopted a position in its ITRE Committee, a trialogue with the European Commission and the European Council started and came to a compromise. It is this compromise that was tabled to the EP Plenary, and given its compromise nature, was supported by a large amount of MEPs, as a whole and therefore the vote on the full Directive is included in this overview.",
+                    "v_recommendation": 1
                 },
                 {
-                    v_id: "A7-0135/2013 - Herbert Reul - Am 1/1",           // as defined by the EP
-                    v_dbid: 4096,
-                    v_weight: 0.5,
-                    v_title: "Current challenges and opportunities for renewable energy in the European internal energy market",
-                    v_description: "Given that EU greenhouse gas emission are still largely linked to our energy use (up to 80%), increasing the share of renewable energy in our total energy use will be crucial to secure a transition to a zero carbon society. The adoption of binding renewable energy targets for 2020 have been crucial in securing the first start of this transformation in the EU. It is crucial that this policy is continued through the establishment of ambitious binding renewable energy targets for 2030.<br />In its resolution on renewable energy, the European Parliament discussed amendments that specifially refered to agreeing a binding renewable energy target for 2030. We have included the vote on that specific amendment in this overview.",
-                    v_recommendation: 1
+                    "v_id": "A7-0135/2013 - Herbert Reul - Am 1/1",
+                    "v_dbid": 4096,
+                    "v_weight": 0.5,
+                    "v_title": "Current challenges and opportunities for renewable energy in the European internal energy market",
+                    "v_description": "Given that EU greenhouse gas emission are still largely linked to our energy use (up to 80%), increasing the share of renewable energy in our total energy use will be crucial to secure a transition to a zero carbon society. The adoption of binding renewable energy targets for 2020 have been crucial in securing the first start of this transformation in the EU. It is crucial that this policy is continued through the establishment of ambitious binding renewable energy targets for 2030.<br />In its resolution on renewable energy, the European Parliament discussed amendments that specifially refered to agreeing a binding renewable energy target for 2030. We have included the vote on that specific amendment in this overview.",
+                    "v_recommendation": 1
                 },
                 {
-                    v_id: "B7-0482/2013 - Am 12/1",           // as defined by the EP
-                    v_dbid: 5004,
-                    v_weight: 0.5,
-                    v_title: "The climate change conference in Warsaw, Poland (COP 19)",
-                    v_description: "In the run up to the climate change summit in Copenhagen, world leaders agreed within the G20 forum to phase out fossil fuel subsidies. Not only are such subsidies supporting further use of fossil fuels at a moment we should be supporting renewables and energy savings, but the hundreds of billions used to supporting fossil fuel pollution could be better used to support climate action in poor countries. Europe still has a long way of implementing its engagement to phase out fossil fuel subsidies. <br />The European Parliament has at several occasions raised this issue. Including in the amendment on ... (so what is the final resoltuion we are refering to?)",
-                    v_recommendation: 1
+                    "v_id": "B7-0482/2013 - Am 12/1",
+                    "v_dbid": 5004,
+                    "v_weight": 0.5,
+                    "v_title": "The climate change conference in Warsaw, Poland (COP 19)",
+                    "v_description": "In the run up to the climate change summit in Copenhagen, world leaders agreed within the G20 forum to phase out fossil fuel subsidies. Not only are such subsidies supporting further use of fossil fuels at a moment we should be supporting renewables and energy savings, but the hundreds of billions used to supporting fossil fuel pollution could be better used to support climate action in poor countries. Europe still has a long way of implementing its engagement to phase out fossil fuel subsidies. <br />The European Parliament has at several occasions raised this issue. Including in the amendment on ... (so what is the final resoltuion we are refering to?)",
+                    "v_recommendation": 1
                 },
            ]
-        },
-        //...
+        }
     ]
 
 
