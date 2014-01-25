@@ -38,8 +38,8 @@
 	    //get details about MEP
         $.ajax({ 
             type: 'GET', 
-            url: 'json_abg_detail.json', 
-            data: { get_param: 'value' }, 
+            url: 'mep_detail_json.php?mepid=565&v_dbids=4995,2636,220,3708,5276,2189,2340,3082,4096,5004', 
+            //data: { get_param: 'value' }, 
             dataType: 'json',
             success: function (data) { 
                $('#mepname').html(data[0].displayName);
@@ -47,7 +47,7 @@
                $.ajax({
                     type: 'GET',
                     url: 'getPhoto.php',
-                    data: { mepid: data[0].europarlID},
+                    data: { europarlID: data[0].europarlID},
                     dataType: 'html',
                     success: function (pdata) {
                       $('#mepPhoto').html(pdata);
@@ -62,38 +62,56 @@
                       $('#mepFlag').html(fdata);
                     }
                });
+               $.ajax({
+                    type: 'GET',
+                    url: 'sandbag.json',
+                    //data: { countryCode: data[0].countryCode},
+                    dataType: 'json',
+                    success: function (cdata) {
+                      $('#logo').attr('src',cdata.organization.logo);
+                      $('#totalScore').html(scoreit(data[0].votes,cdata.topics));
+                    }
+               });
             }
         });
       });
       
       //function calculate score
-      /*function scoreit(mepvotes,topics ) {
+      function scoreit(mepvotes,topics ) {
         //reorder campaign data for easier access
         votings = new Object;
         $.each(topics, function (i0, v0) {
           $.each(v0.votings, function (i, v) {
             votings[v.v_dbid] = v;
-          )}
-        }
+          });
+        });
         wsum = 0;
         vsum = 0;
         $.each(mepvotes, function( index, value ) {
-          
+          if ((votings[value.v_dbid] != 'undefined') && (value.exists)) {
+            wsum += votings[value.v_dbid].v_weight;
+            vsum += votings[value.v_dbid].v_weight*parseInt(value.vote)*parseInt(votings[value.v_dbid].v_recommendation);
+          }
         });
-      }*/
+        if (wsum != 0)
+          out = Math.round((vsum/wsum + 1)/2 * 100);
+        else
+          out = 50; 
+        return out;
+      }
 	</script>
 	
 </head>
 <body>
 <div data-role="page" class="jqm-demos" data-quicklinks="false" id="mepPage">
 	<div data-role="header" class="jqm-header">
-		<h2><img src="logo.png" alt="Scoring EP"></h2>
+		<h2><img src="logo.png" alt="Scoring EP" id="logo"></h2>
 		<p>Version 0</p>
 	</div><!-- /header -->
 	
 	<div role="main" class="ui-content jqm-content">
 
-		<h1><div class="score" title="Total score">37</div><span id="mepPhoto"></span><strong><span id="mepname"></span><span id="mepFlag"></span></strong> is rather a climate killer.</h1>
+		<h1><div class="score" title="Total score" id="totalScore">-</div><span id="mepPhoto"></span><strong><span id="mepname"></span><span id="mepFlag"></span></strong> is rather a climate killer.</h1>
 		
 
 		
