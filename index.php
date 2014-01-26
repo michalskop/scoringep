@@ -14,7 +14,7 @@
 	<script src="http://demos.jquerymobile.com/1.4.0/js/jquery.mobile-1.4.0.min.js"></script>
 	<script src="common.js"></script>	
 	<script>
-	  var mepids = [123,234];
+	  var mepids = [777,664];
 	  
 	  $( document ).delegate("#mepPage", "pageinit", function() {
 	    $.ajax({
@@ -34,33 +34,17 @@
                     async: false,
                     success: function (data) { 
                        $('#mepname' + i).html(data[0].displayName);
-                       //get photo
-                       $.ajax({
-                            type: 'GET',
-                            url: 'getPhoto.php',
-                            data: { europarlID: data[0].europarlID},
-                            dataType: 'html',
-                            success: function (pdata) {
-                              $('#mepPhoto' + i).html(pdata);
-                            }
-                       });
-                       $.ajax({
-                            type: 'GET',
-                            url: 'getFlag.php',
-                            data: { countryCode: data[0].countryCode},
-                            dataType: 'html',
-                            success: function (fdata) {
-                              $('#mepFlag' + i).html(fdata);
-                            }
-                       });
+                       
                       
                       score = scoreit(data[0].votes,cdata.topics);
                       $('#totalScore' + i).html(score);
                       limitinfo = score2cd(score,cdata.score.limits);
                       $('#mepText' + i).html(limitinfo.text);
                       $('#totalScore' + i).css('background-color',limitinfo.color);
-                            
-                       
+                      $('#mepPhoto' + i + ' img').attr('src', 'http://www.europarl.europa.eu/mepphoto/' + data[0].europarlID + '.jpg')
+                      .addClass('portrait');
+                      $('#mepFlag' + i + ' img').attr('src', 'http://lobbyplag.eu/assets/img/flags/20x15/' + data[0].countryCode + '.png')
+                      .addClass('mepFlag');
                     }
                 });
             } // for
@@ -79,9 +63,9 @@
 	
 	<div role="main" class="ui-content jqm-content">
 
-		<h2><div class="score" title="Total score" id="totalScore0">-</div><span id="mepPhoto0"></span><br /><strong><span id="mepname0"></span><span id="mepFlag0"></span></strong><span id="mepText0"></span></h2>
+		<h2><div class="score" title="Total score" id="totalScore0">-</div><span id="mepPhoto0"><img /></span><strong><span id="mepname0"></span><span id="mepFlag0"><img /></span></strong><span id="mepText0"></span></h2>
 		<br style="clear:both" />
-		<h2><div class="score" title="Total score" id="totalScore1">-</div><span id="mepPhoto1"></span><br /><strong><span id="mepname1"></span><span id="mepFlag1"></span></strong><span id="mepText1"></span></h2>
+		<h2><div class="score" title="Total score" id="totalScore1">-</div><span id="mepPhoto1"><img /></span><strong><span id="mepname1"></span><span id="mepFlag1"><img /></span></strong><span id="mepText1"></span></h2>
 				
     </div>
 </div>

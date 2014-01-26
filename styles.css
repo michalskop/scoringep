@@ -10,10 +10,10 @@
     margin-right: .5em;
     font-size: 1.25em;
 }
-#mepPhoto {
+#mepPhoto, .mepFlag img {
     padding-right: .5em;
 }
-#mepFlag img {
+#mepFlag img, .mepFlag img {
     margin-bottom: 0.35em;
 }
 
@@ -21,7 +21,14 @@ h2 {
     background-color: #ccc;
 }
 
-img.portrait {
+h1 img.portrait {
     height: 111px;
+}
+h2 img.portrait {
+    height: 72px;
+}
+
+img.portrait {
+    padding-right: 1em;
 }
 
