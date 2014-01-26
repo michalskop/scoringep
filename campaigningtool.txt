@@ -20,14 +20,15 @@
         weight: 0,
         image: "",
         votings: [
-            // votings are ardered by date (from votings)
+            // votings are ordered by date (from votings)
                 {
                     v_id: "B7-0482/2013|§ 8 - AM 6D",           // as defined by the EP
                     v_dbid: 4995,
                     v_weight: 0,        // for your scoring
                     v_title: "",        // try to find the question the voting / amanedment describes best
                     v_description: "",  // why is this vote imoortant, and what does it mean?
-                    v_recommendation: "pro/contra" // 1:yes, 2:no, 3: abstention, 4-5:absent
+                    v_recommendation: "pro/contra" // 1:yes, 2:no, 3: abstention, 4-5:absent,
+                    v_link:"" // Link to EP / Parltrack / Votewatch / whatever you like
                 },
                 {
                     v_id: "B7-0482/2013|§ 8 - AM 6D",           // as defined by the EP
@@ -35,7 +36,8 @@
                     v_weight: 0,        // for your scoring
                     v_title: "",        // try to find the question the voting / amanedment describes best
                     v_description: "",  // why is this vote imoortant, and what does it mean?
-                    v_recommendation: "pro/contra"
+                    v_recommendation: "pro/contra",
+                    v_link:"" // Link to EP / Parltrack / Votewatch / whatever you like
                 },
                 {
                     v_id: "B7-0482/2013|§ 8 - AM 6D",           // as defined by the EP
@@ -43,7 +45,8 @@
                     v_weight: 0,        // for your scoring
                     v_title: "",        // try to find the question the voting / amanedment describes best
                     v_description: "",  // why is this vote imoortant, and what does it mean?
-                    v_recommendation: "pro/contra"
+                    v_recommendation: "pro/contra",
+                    v_link:"" // Link to EP / Parltrack / Votewatch / whatever you like
                 },
                 {
                     v_id: "B7-0482/2013|§ 8 - AM 6D",           // as defined by the EP
@@ -51,47 +54,8 @@
                     v_weight: 0,        // for your scoring
                     v_title: "",        // try to find the question the voting / amanedment describes best
                     v_description: "",  // why is this vote imoortant, and what does it mean?
-                    v_recommendation: "pro/contra"
-                },
-                {
-                    v_id: "B7-0482/2013|§ 8 - AM 6D",           // as defined by the EP
-                    v_dbid: 4995,
-                    v_weight: 0,        // for your scoring
-                    v_title: "",        // try to find the question the voting / amanedment describes best
-                    v_description: "",  // why is this vote imoortant, and what does it mean?
-                    v_recommendation: "pro/contra"
-                },
-                {
-                    v_id: "B7-0482/2013|§ 8 - AM 6D",           // as defined by the EP
-                    v_dbid: 4995,
-                    v_weight: 0,        // for your scoring
-                    v_title: "",        // try to find the question the voting / amanedment describes best
-                    v_description: "",  // why is this vote imoortant, and what does it mean?
-                    v_recommendation: "pro/contra"
-                },
-                {
-                    v_id: "B7-0482/2013|§ 8 - AM 6D",           // as defined by the EP
-                    v_dbid: 4995,
-                    v_weight: 0,        // for your scoring
-                    v_title: "",        // try to find the question the voting / amanedment describes best
-                    v_description: "",  // why is this vote imoortant, and what does it mean?
-                    v_recommendation: "pro/contra"
-                },
-                {
-                    v_id: "B7-0482/2013|§ 8 - AM 6D",           // as defined by the EP
-                    v_dbid: 4995,
-                    v_weight: 0,        // for your scoring
-                    v_title: "",        // try to find the question the voting / amanedment describes best
-                    v_description: "",  // why is this vote imoortant, and what does it mean?
-                    v_recommendation: "pro/contra"
-                },
-                {
-                    v_id: "B7-0482/2013|§ 8 - AM 6D",           // as defined by the EP
-                    v_dbid: 4995,
-                    v_weight: 0,        // for your scoring
-                    v_title: "",        // try to find the question the voting / amanedment describes best
-                    v_description: "",  // why is this vote imoortant, and what does it mean?
-                    v_recommendation: "pro/contra"
+                    v_recommendation: "pro/contra",
+                    v_link:"" // Link to EP / Parltrack / Votewatch / whatever you like
                 },
             ]
         },
