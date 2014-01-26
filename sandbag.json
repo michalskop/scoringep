@@ -7,16 +7,16 @@
         "logo": "http://www.sandbag.org.uk/site_media/images/sandbag_logo_transparent.png"
     },
     "score": {
-        "title": "Is your MEP climate friendly?",
+        "title": "Does your MEP care about the climate?",
         "description": "We collected the main topics...",
         "link": "",
         "logo": "",
         "limits": [
             {"upper": 20,  "text": " is a fucken climate killer.",        "color": "darksalmon"},
-            {"upper": 40,  "text": " is rather a climate killer.",        "color" : "orange" }, 
+            {"upper": 40,  "text": " is a moderate climate killer.",        "color" : "orange" }, 
             {"upper": 60,  "text": " is not really decided on the climate.", "color": "yellow"},
-            {"upper": 80,  "text": " is rather climate-friendly.",        "color": "palegreen"},
-            {"upper": 100, "text": " is a climate friend.",               "color": "lightgreen"} 
+            {"upper": 90,  "text": " is rather climate-friendly.",        "color": "palegreen"},
+            {"upper": 100, "text": " is a climate champion.",               "color": "lightgreen"} 
         ]
     },
     "topics": [

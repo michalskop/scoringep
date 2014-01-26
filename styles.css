@@ -60,3 +60,6 @@ img.portrait {
 .disagreement {
     background-color: red;
 }
+.jqm-demos .jqm-header {
+    background-color: #ccc;
+}
