@@ -45,6 +45,7 @@ img.portrait {
 
 .ui-listview > li p {
     white-space: normal;
+    font-size: 1.1em;
 }
 
 .boxito {
