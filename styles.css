@@ -2,6 +2,9 @@
     float: none;
     width: auto;
 }
+#logo {
+	width:150px;
+}
 .score {
     float: left;
     font-weight: bold;
