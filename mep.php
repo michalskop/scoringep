@@ -60,11 +60,24 @@
                       limitinfo = score2cd(score,cdata.score.limits);
                       $('#mepText').html(limitinfo.text);
                       $('#totalScore').css('background-color',limitinfo.color);
+                      
+                      $.each(cdata.topics, function( index, value ) {
+                        divhtml = '<div data-role="collapsible"><h2>topicNAME</h2><ul id="topicX" data-role="listview" data-inset="true"></ul></div>';
+                        divhtml = divhtml.replace("topicX", "topic" + index);
+                        divhtml = divhtml.replace("topicNAME", value.title);
+                        $('#topics').append(divhtml);
+                        $.each(value.votings, function( i, v ) {
+                          lihtml = '<li><div data-role="collapsible"><h3>votingNAME</h3><ul id="votingX" data-role="listview" data-inset="true"></ul></div></li>';
+                          lihtml = lihtml.replace("votingX", "voting" + i);
+                          lihtml = lihtml.replace("votingNAME", v.v_title);
+                          $('#topic'+index).append(lihtml);
+                        });
+                      });
                     }
                });
             }
         });
-      });
+      });  
 	</script>
 	
 </head>
@@ -84,6 +97,9 @@
 		
 		<h2>Scorecard</h2>
 		
+		<div id="topics">
+
+		</div>
 		
     </div>
 </div>
