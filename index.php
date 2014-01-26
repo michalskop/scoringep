@@ -14,7 +14,7 @@
 	<script src="http://demos.jquerymobile.com/1.4.0/js/jquery.mobile-1.4.0.min.js"></script>
 	<script src="common.js"></script>	
 	<script>
-	  var mepids = [777,664];
+	  var mepids = [340,664];
 	  
 	  $( document ).delegate("#mepPage", "pageinit", function() {
 	    $.ajax({
@@ -68,13 +68,9 @@
 		<br style="clear:both" />
 		<h2><div class="score" title="Total score" id="totalScore1">-</div><span id="mepPhoto1"><img /></span><strong><span id="mepname1"></span><span id="mepFlag1"><img /></span></strong><span id="mepText1"></span></h2>
 	    
-	    
-	    <a class="ui-btn ui-icon-arrow-r ui-button-icon-right" href="#">Find your MEP</a>
-	    <a class="ui-btn ui-icon-arrow-r ui-button-icon-right" href="#">How do we score?</a>
-	    
 	    <div>
-	        <h3>More scores</h3>
-	        
+            <a class="ui-btn ui-icon-arrow-r ui-button-icon-right" href="list.php" data-ajax="false">Find your MEP</a>
+            <a class="ui-btn ui-icon-arrow-r ui-button-icon-right" href="#">How do we score?</a>
 	    </div>
     </div>
 </div>
