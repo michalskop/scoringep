@@ -15,8 +15,8 @@
             {"upper": 20,  "text": " is a fucken climate killer.",        "color": "darksalmon"},
             {"upper": 40,  "text": " is rather a climate killer.",        "color" : "orange" }, 
             {"upper": 60,  "text": " is not really decided on the climate.", "color": "yellow"},
-            {"upper": 80,  "text": " is rather climate-friendly.",        "color": "palegreen"},
-            {"upper": 100, "text": " is a climate friend.",               "color": "lightgreen"} 
+            {"upper": 80,  "text": " is rather climate-friendly.",        "color": "greenyellow"},
+            {"upper": 100, "text": " is a climate friend.",               "color": "palegreen"} 
         ]
     },
     "topics": [

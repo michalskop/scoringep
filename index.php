@@ -12,59 +12,61 @@
 	<script src="http://demos.jquerymobile.com/1.4.0/js/jquery.js"></script>
 	<script src="http://demos.jquerymobile.com/1.4.0/_assets/js/index.js"></script>
 	<script src="http://demos.jquerymobile.com/1.4.0/js/jquery.mobile-1.4.0.min.js"></script>
-	<script src="common.js"></script>
-	
-	<style>
-	</style>
-	
+	<script src="common.js"></script>	
 	<script>
-	  var mepid = getParameter('id');
+	  var mepids = [123,234];
 	  
 	  $( document ).delegate("#mepPage", "pageinit", function() {
-	    //get details about MEP
-        $.ajax({ 
-            type: 'GET', 
-            url: 'mep_detail_json.php?mepid=' + mepid + '&v_dbids=4995,2636,220,3708,5276,2189,2340,3082,4096,5004', 
-            //data: { get_param: 'value' }, 
+	    $.ajax({
+            type: 'GET',
+            url: 'sandbag.json',
             dataType: 'json',
-            success: function (data) { 
-               $('#mepname').html(data[0].displayName);
-               //get photo
-               $.ajax({
-                    type: 'GET',
-                    url: 'getPhoto.php',
-                    data: { europarlID: data[0].europarlID},
-                    dataType: 'html',
-                    success: function (pdata) {
-                      $('#mepPhoto').html(pdata);
-                    }
-               });
-               $.ajax({
-                    type: 'GET',
-                    url: 'getFlag.php',
-                    data: { countryCode: data[0].countryCode},
-                    dataType: 'html',
-                    success: function (fdata) {
-                      $('#mepFlag').html(fdata);
-                    }
-               });
-               $.ajax({
-                    type: 'GET',
-                    url: 'sandbag.json',
-                    //data: { countryCode: data[0].countryCode},
+            success: function (cdata) {
+                $('#logo').attr('src',cdata.organization.logo);
+               //get details about MEP
+               
+               for (var i = 0; i < 2; i++) {
+                $.ajax({ 
+                    type: 'GET', 
+                    url: 'mep_detail_json.php?mepid=' + mepids[i] + '&v_dbids=4995,2636,220,3708,5276,2189,2340,3082,4096,5004', 
+                    //data: { get_param: 'value' }, 
                     dataType: 'json',
-                    success: function (cdata) {
-                      $('#logo').attr('src',cdata.organization.logo);
+                    async: false,
+                    success: function (data) { 
+                       $('#mepname' + i).html(data[0].displayName);
+                       //get photo
+                       $.ajax({
+                            type: 'GET',
+                            url: 'getPhoto.php',
+                            data: { europarlID: data[0].europarlID},
+                            dataType: 'html',
+                            success: function (pdata) {
+                              $('#mepPhoto' + i).html(pdata);
+                            }
+                       });
+                       $.ajax({
+                            type: 'GET',
+                            url: 'getFlag.php',
+                            data: { countryCode: data[0].countryCode},
+                            dataType: 'html',
+                            success: function (fdata) {
+                              $('#mepFlag' + i).html(fdata);
+                            }
+                       });
+                      
                       score = scoreit(data[0].votes,cdata.topics);
-                      $('#totalScore').html(score);
+                      $('#totalScore' + i).html(score);
                       limitinfo = score2cd(score,cdata.score.limits);
-                      $('#mepText').html(limitinfo.text);
-                      $('#totalScore').css('background-color',limitinfo.color);
+                      $('#mepText' + i).html(limitinfo.text);
+                      $('#totalScore' + i).css('background-color',limitinfo.color);
+                            
+                       
                     }
-               });
-            }
-        });
-      });
+                });
+            } // for
+        }
+    });
+    });
 	</script>
 	
 </head>
@@ -77,14 +79,10 @@
 	
 	<div role="main" class="ui-content jqm-content">
 
-		<h1><div class="score" title="Total score" id="totalScore">-</div><span id="mepPhoto"></span><br /><strong><span id="mepname"></span><span id="mepFlag"></span></strong><span id="mepText"></span></h1>
-		
-
-		
-		
-		<h2>Scorecard</h2>
-		
-		
+		<h2><div class="score" title="Total score" id="totalScore0">-</div><span id="mepPhoto0"></span><br /><strong><span id="mepname0"></span><span id="mepFlag0"></span></strong><span id="mepText0"></span></h2>
+		<br style="clear:both" />
+		<h2><div class="score" title="Total score" id="totalScore1">-</div><span id="mepPhoto1"></span><br /><strong><span id="mepname1"></span><span id="mepFlag1"></span></strong><span id="mepText1"></span></h2>
+				
     </div>
 </div>
 </body>
