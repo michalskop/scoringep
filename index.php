@@ -70,7 +70,7 @@
 	    
 	    <div>
             <a class="ui-btn ui-icon-arrow-r ui-button-icon-right" href="list.php" data-ajax="false">Find your MEP</a>
-            <a class="ui-btn ui-icon-arrow-r ui-button-icon-right" href="#">How do we score?</a>
+            <a class="ui-btn ui-icon-arrow-r ui-button-icon-right" href="score.php" data-ajax="false">How do we score?</a>
 	    </div>
     </div>
 </div>
