@@ -62,16 +62,34 @@
                       $('#totalScore').css('background-color',limitinfo.color);
                       
                       $.each(cdata.topics, function( index, value ) {
-                        divhtml = '<div data-role="collapsible" id="topX-wrapper"><h2>topicNAME</h2><ul id="topicX" data-role="listview" data-inset="true"></ul></div>';
+                        divhtml = '<div data-role="collapsible" id="topX-wrapper"><h2>topicNAME</h2><ul id="topicX" data-role="listview"></ul></div>';
                         divhtml = divhtml.replace("topicX", "topic" + index);
                         divhtml = divhtml.replace("topX", "topic" + index);
                         divhtml = divhtml.replace("topicNAME", value.title);
                         $('#topics').append(divhtml);
                         $.each(value.votings, function( i, v ) {
-                          lihtml = '<li><div data-role="collapsible"><h3>votingNAME</h3><ul id="votingX" data-role="listview" data-inset="true"></ul></div></li>';
+                          lihtml = '<li><div data-role="collapsible"><h3><div class="boxito votingCLASS"></div>votingNAME</h3><ul id="votingX" data-role="listview" data-inset="true"><p>votingDESCRIPTION</p></ul></div></li>';
                           lihtml = lihtml.replace("votingX", "voting" + i);
+                          if (hisvote = findvote(v.v_dbid,data[0].votes)) {
+                            if (hisvote.exists) {
+                              if (parseInt(v.v_recommendation)*hisvote.vote == 1)
+                                agreeclass = 'agreement';
+                              else
+                                if (parseInt(v.v_recommendation)*hisvote.vote == -1)
+                                  agreeclass = 'disagreement';
+                                else 
+                                  agreeclass = 'neutral';
+                            } else {
+                              agreeclass = 'not-present';
+                            }
+                          } else {
+                            agreeclass = 'not-present';
+                          }
+                          lihtml = lihtml.replace("votingCLASS", agreeclass);
                           lihtml = lihtml.replace("votingNAME", v.v_title);
+                          lihtml = lihtml.replace("votingDESCRIPTION", v.v_description);
                           $('#topic'+index).append(lihtml);
+                          
                         });
                         $('#topic'+index+'-wrapper').trigger('create');
                         $('#topic'+index).trigger('create');
@@ -81,6 +99,13 @@
             }
         });
       });  
+      function findvote (v_dbid, votes) {
+        for (i=0;i<votes.length;i++) {
+          if (parseInt(votes[i].v_dbid) == v_dbid)
+            return votes[i];
+        }
+        return false;
+      }
 	</script>
 	
 </head>

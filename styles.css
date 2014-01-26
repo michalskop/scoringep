@@ -25,3 +25,19 @@ img.portrait {
     height: 111px;
 }
 
+.ui-listview > li p {
+    white-space: normal;
+}
+
+.boxito {
+    padding: .5em;
+    background-color: #ccc;
+    margin-right: .5em;
+    float: left;
+}
+.agreement {
+    background-color: green;
+}
+.disagreement {
+    background-color: red;
+}
