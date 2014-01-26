@@ -29,7 +29,9 @@
                for (var i = 0; i < 2; i++) {
                 $.ajax({ 
                     type: 'GET', 
-                    url: 'mep_detail_json.php?mepid=' + mepids[i] + '&v_dbids=4995,2636,220,3708,5276,2189,2340,3082,4096,5004', 
+                    //url: 'mep_detail_json.php?mepid=' + mepids[i] + '&v_dbids=4995,2636,220,3708,5276,2189,2340,3082,4096,5004', 
+                    url: 'static/mep'+mepid+'.json', 
+                    
                     //data: { get_param: 'value' }, 
                     dataType: 'json',
                     async: false,
