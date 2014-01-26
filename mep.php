@@ -15,7 +15,7 @@
 	<style>
 	  .jqm-demos .jqm-content {
 	    float: none;
-	    width: 100%;
+	    width: auto;
 	  }
 	  .score {
 	    float: left;
@@ -34,6 +34,10 @@
 	  
 	  h2 {
 	    background-color: #ccc;
+	  }
+	  
+	  img.portrait {
+	    height: 111px;
 	  }
 	  
 	</style>
@@ -148,7 +152,7 @@
 	
 	<div role="main" class="ui-content jqm-content">
 
-		<h1><div class="score" title="Total score" id="totalScore">-</div><span id="mepPhoto"></span><strong><span id="mepname"></span><span id="mepFlag"></span></strong><span id="mepText"></span></h1>
+		<h1><div class="score" title="Total score" id="totalScore">-</div><span id="mepPhoto"></span><br /><strong><span id="mepname"></span><span id="mepFlag"></span></strong><span id="mepText"></span></h1>
 		
 
 		
