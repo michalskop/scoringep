@@ -1,0 +1,27 @@
+.jqm-demos .jqm-content {
+    float: none;
+    width: auto;
+}
+.score {
+    float: left;
+    font-weight: bold;
+    padding: .5em;
+    background-color: #ccc;
+    margin-right: .5em;
+    font-size: 1.25em;
+}
+#mepPhoto {
+    padding-right: .5em;
+}
+#mepFlag img {
+    margin-bottom: 0.35em;
+}
+
+h2 {
+    background-color: #ccc;
+}
+
+img.portrait {
+    height: 111px;
+}
+
