@@ -59,16 +59,16 @@
 </head>
 <body>
 <div data-role="page" class="jqm-demos" data-quicklinks="false" id="mepPage">
-	<div data-role="header" class="jqm-header">
+	<div data-role="header" class="jqm-header" onclick="document.location.href='index.php'" style="cursor:pointer">
 		<h2><img alt="Scoring EP" id="logo"></h2>
 		<p>Version 0</p>
 	</div><!-- /header -->
 	
 	<div role="main" class="ui-content jqm-content">
         <h1 class="starthead"></h1>
-		<h2><div class="score" title="Total score" id="totalScore0">-</div><span id="mepPhoto0"><img /></span><strong><span id="mepname0"></span><span id="mepFlag0"><img /></span></strong><span id="mepText0"></span></h2>
+		<h2 style="margin:0 7.5%"><div class="score" title="Total score" id="totalScore0">-</div><span id="mepPhoto0"><img /></span><strong><span id="mepname0"></span><span id="mepFlag0"><img /></span></strong><span id="mepText0"></span> <a href="#" onclick="document.location.href='mep.php?id='+ mepids[0]" style="font-size: 0.5em">see scorecard</a></h2>
 		<br style="clear:both" />
-		<h2><div class="score" title="Total score" id="totalScore1">-</div><span id="mepPhoto1"><img /></span><strong><span id="mepname1"></span><span id="mepFlag1"><img /></span></strong><span id="mepText1"></span></h2>
+		<h2 style="margin:0 7.5%"><div class="score" title="Total score" id="totalScore1">-</div><span id="mepPhoto1"><img /></span><strong><span id="mepname1"></span><span id="mepFlag1"><img /></span></strong><span id="mepText1"></span><a href="#" onclick="document.location.href='mep.php?id='+ mepids[1]">see scorecard</a></h2>
 	    
 	    <div>
             <a class="ui-btn ui-icon-arrow-r ui-button-icon-right" href="list.php" data-ajax="false">Find your MEP</a>

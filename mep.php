@@ -113,7 +113,7 @@
 </head>
 <body>
 <div data-role="page" class="jqm-demos" data-quicklinks="false" id="mepPage">
-	<div data-role="header" class="jqm-header">
+	<div data-role="header" class="jqm-header"  onclick="document.location.href='index.php'" style="cursor:pointer">
 		<h2><img alt="Scoring EP" id="logo"></h2>
 		<p>Version 0</p>
 	</div><!-- /header -->

@@ -17,8 +17,8 @@
 </head>
 <body>
 <div data-role="page" class="jqm-demos" data-quicklinks="false" id="mepPage">
-	<div data-role="header" class="jqm-header">
-		<h2><img alt="Scoring EP" id="logo" src="http://www.sandbag.org.uk/site_media/images/sandbag_logo_transparent.png"></h2>
+	<div data-role="header" class="jqm-header" onclick="document.location.href='index.php'" style="cursor:pointer">
+		<h2><img alt="Scoring EP" id="logo" src="http://www.sandbag.org.uk/site_media/images/sandbag_logo_transparent.png" ></h2>
 		<p>Version 0</p>
 	</div><!-- /header -->
 	
