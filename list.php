@@ -18,7 +18,7 @@
 <div data-role="page" class="jqm-demos" data-quicklinks="false" id="listPage">
 	<div data-role="header" class="jqm-header"  onclick="document.location.href='index.php'" style="cursor:pointer">
 		<h2><img alt="Scoring EP" id="logo" src="http://www.sandbag.org.uk/site_media/images/sandbag_logo_transparent.png"></h2>
-		<p>Version 0</p>
+		<p>Version 1.0</p>
 	</div><!-- /header -->
     <div role="main" class="ui-content jqm-content">
 <ul data-role="listview" data-filter="true" data-filter-placeholder="Search MEPs..." data-inset="true" style="margin: 1em 10%">
