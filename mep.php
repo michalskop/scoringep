@@ -68,8 +68,9 @@
                         divhtml = divhtml.replace("topicNAME", value.title);
                         $('#topics').append(divhtml);
                         $.each(value.votings, function( i, v ) {
-                          lihtml = '<li><div data-role="collapsible"><h3><div class="boxito votingCLASS"></div>votingNAME</h3><ul id="votingX" data-role="listview" data-inset="true"><p>votingDESCRIPTION</p></ul></div></li>';
+                          lihtml = '<li><div data-role="collapsible"><h3><div class="boxito votingCLASS"></div>votingNAME</h3><ul id="votingX" data-role="listview" data-inset="true"><p>votingDESCRIPTION</p><a href="votingLINK" class="ui-btn ui-mini ui-btn-inline">This division on VoteWatch</a></ul></div></li>';
                           lihtml = lihtml.replace("votingX", "voting" + i);
+                          lihtml = lihtml.replace("votingLINK", v.v_link);
                           if (hisvote = findvote(v.v_dbid,data[0].votes)) {
                             if (hisvote.exists) {
                               if (parseInt(v.v_recommendation)*hisvote.vote == 1)
