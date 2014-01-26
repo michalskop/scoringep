@@ -62,8 +62,9 @@
                       $('#totalScore').css('background-color',limitinfo.color);
                       
                       $.each(cdata.topics, function( index, value ) {
-                        divhtml = '<div data-role="collapsible"><h2>topicNAME</h2><ul id="topicX" data-role="listview" data-inset="true"></ul></div>';
+                        divhtml = '<div data-role="collapsible" id="topX-wrapper"><h2>topicNAME</h2><ul id="topicX" data-role="listview" data-inset="true"></ul></div>';
                         divhtml = divhtml.replace("topicX", "topic" + index);
+                        divhtml = divhtml.replace("topX", "topic" + index);
                         divhtml = divhtml.replace("topicNAME", value.title);
                         $('#topics').append(divhtml);
                         $.each(value.votings, function( i, v ) {
@@ -72,6 +73,8 @@
                           lihtml = lihtml.replace("votingNAME", v.v_title);
                           $('#topic'+index).append(lihtml);
                         });
+                        $('#topic'+index+'-wrapper').trigger('create');
+                        $('#topic'+index).trigger('create');
                       });
                     }
                });
