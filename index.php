@@ -23,6 +23,7 @@
             dataType: 'json',
             success: function (cdata) {
                 $('#logo').attr('src',cdata.organization.logo);
+                $('h1').html(cdata.score.title);
                //get details about MEP
                
                for (var i = 0; i < 2; i++) {
@@ -62,11 +63,19 @@
 	</div><!-- /header -->
 	
 	<div role="main" class="ui-content jqm-content">
-
+        <h1 class="starthead"></h1>
 		<h2><div class="score" title="Total score" id="totalScore0">-</div><span id="mepPhoto0"><img /></span><strong><span id="mepname0"></span><span id="mepFlag0"><img /></span></strong><span id="mepText0"></span></h2>
 		<br style="clear:both" />
 		<h2><div class="score" title="Total score" id="totalScore1">-</div><span id="mepPhoto1"><img /></span><strong><span id="mepname1"></span><span id="mepFlag1"><img /></span></strong><span id="mepText1"></span></h2>
-				
+	    
+	    
+	    <a class="ui-btn ui-icon-arrow-r ui-button-icon-right" href="#">Find your MEP</a>
+	    <a class="ui-btn ui-icon-arrow-r ui-button-icon-right" href="#">How do we score?</a>
+	    
+	    <div>
+	        <h3>More scores</h3>
+	        
+	    </div>
     </div>
 </div>
 </body>

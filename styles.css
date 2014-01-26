@@ -24,6 +24,14 @@ h2 {
 h1 img.portrait {
     height: 111px;
 }
+
+.jqm-demos .jqm-content > h1.starthead {
+    font-size: 4em;
+    width:50%;
+    min-width: 300px;
+    margin: 0.5em 25% 1em 25%;
+    text-align:center;
+}
 h2 img.portrait {
     height: 72px;
 }
