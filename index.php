@@ -68,7 +68,7 @@
         <h1 class="starthead"></h1>
 		<h2 style="margin:0 7.5% 0.1em 7.5%"><div class="score" title="Total score" id="totalScore0">-</div><span id="mepPhoto0"><img /></span><strong><span id="mepname0"></span><span id="mepFlag0"><img /></span></strong><span id="mepText0"></span> <a href="#" onclick="document.location.href='mep.php?id='+ mepids[0]" style="font-size: 0.5em">see scorecard</a></h2>
 		<br style="clear:both" />
-		<h2 style="margin:0 7.5% 0.1em 7.5%"><div class="score" title="Total score" id="totalScore1">-</div><span id="mepPhoto1"><img /></span><strong><span id="mepname1"></span><span id="mepFlag1"><img /></span></strong><span id="mepText1"></span><a href="#" onclick="document.location.href='mep.php?id='+ mepids[1]">see scorecard</a></h2>
+		<h2 style="margin:0 7.5% 1.1em 7.5%"><div class="score" title="Total score" id="totalScore1">-</div><span id="mepPhoto1"><img /></span><strong><span id="mepname1"></span><span id="mepFlag1"><img /></span></strong><span id="mepText1"></span><a href="#" onclick="document.location.href='mep.php?id='+ mepids[1]">see scorecard</a></h2>
 	    
 	    <div>
             <a class="ui-btn ui-icon-arrow-r ui-button-icon-right" href="list.php" data-ajax="false">Find your MEP</a>
