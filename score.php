@@ -33,6 +33,8 @@
 		<p>
 		Contributors: Laurence Watson, Joachim Gola, Michal Skop
 		</p>
+		<p>
+		Contact: <a href="mailto:laurence@sandbag.org.uk" class="ui-link-inherit">Laurence Watson</a>
 	    <div>
             <a class="ui-btn ui-icon-arrow-r ui-button-icon-right" href="list.php" data-ajax="false">Find your MEP</a>
 	    </div>
