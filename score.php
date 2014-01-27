@@ -28,7 +28,7 @@
 		We examined MEPs voting records across 11 key votes over the last 5 years. The votes related to various different aspects of climate change policy. We gave each vote a weighting of importance, then gave the MEP that score for that vote if they voted in the direction most favourable for ambitious action on climate change. By averaging the scores across all the votes per MEP, we obtained the final rating.
 		</p>
 		<p>
-		Based on data from <a href="www.sandbag.org.uk">Sandbag</a>, <a href="www.climnet.org/"‎>CAN Europe</a> and <a href="www.wwf.eu/‎">WWF</a>.
+		Based on data from <a href="www.sandbag.org.uk">Sandbag</a>, <a href="www.climnet.org/"‎>CAN Europe</a>, <a href="www.wwf.eu/‎">WWF</a> and <a href="http://eu-parlameter.zdf.de/">eu-parlameter</a>.
 		</p>
 		<p>
 		Contributors: Laurence Watson, Joachim Gola, Michal Skop
