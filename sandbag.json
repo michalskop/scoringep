@@ -12,8 +12,8 @@
         "link": "",
         "logo": "",
         "limits": [
-            {"upper": 20,  "text": " has voted strongly against climate policies.", "color": "darksalmon"},
-            {"upper": 40,  "text": " has voted moderately against climate policies.", "color" : "orange" }, 
+            {"upper": 20,  "text": " is a climate killer.", "color": "red"},
+            {"upper": 40,  "text": " has voted against climate policies.", "color" : "orange" }, 
             {"upper": 60,  "text": " is not really decided on the climate.", "color": "yellow"},
             {"upper": 90,  "text": " is rather climate-friendly.",        "color": "palegreen"},
             {"upper": 100, "text": " is a climate champion.",               "color": "lightgreen"} 
