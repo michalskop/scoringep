@@ -4,6 +4,8 @@
 }
 #logo {
 	width:150px;
+	background-color: #666;
+	padding: 5px;
 }
 .score {
     float: left;
@@ -17,11 +19,7 @@
     padding-right: .5em;
 }
 #mepFlag img, .mepFlag img {
-    margin-bottom: 0.35em;
-}
-
-h2 {
-    background-color: #ccc;
+    margin: 0 0 0.35em 0.15em;
 }
 
 h1 img.portrait {
@@ -29,11 +27,13 @@ h1 img.portrait {
 }
 
 .jqm-demos .jqm-content > h1.starthead {
-    font-size: 4em;
-    width:50%;
-    min-width: 300px;
-    margin: 0.3em 25% 1em 25%;
-    text-align:center;
+	font-size: 4em;
+	width: 50%;
+	min-width: 300px;
+	max-width: 600px;
+	margin: 0.3em auto 1em auto;
+	text-align: center;
+
 }
 h2 img.portrait {
     height: 72px;
@@ -56,17 +56,32 @@ img.portrait {
 }
 
 .boxito {
-    padding: .5em;
-    background-color: #ccc;
-    margin-right: .5em;
-    float: left;
+	color: white;
+	text-shadow: none;
+	padding: .1em 0.3em;
+	min-width: 30px;
+	background-color: #ccc;
+	margin-right: .5em;
+	float: left;
+	min-height: 1em;
+	text-align: center;
 }
+
 .agreement {
-    background-color: green;
+	background-color: green;
 }
 .disagreement {
     background-color: red;
 }
 .jqm-demos .jqm-header {
     background-color: #ccc;
+}
+
+.jqm-demos .jqm-content > h2 {
+	color: inherit;
+}
+
+.jqm-demos .jqm-header h2 {
+	margin-left: 5%;
+	margin-right: 5%;
 }

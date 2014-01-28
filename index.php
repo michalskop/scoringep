@@ -70,8 +70,10 @@
 <body>
 <div data-role="page" class="jqm-demos" data-quicklinks="false" id="mepPage">
 	<div data-role="header" class="jqm-header" onclick="document.location.href='index.php'" style="cursor:pointer">
-		<h2><img alt="Scoring EP" id="logo"></h2>
-		<p>Version 1.0</p>
+		<h2>
+		<img alt="" id="logo" />
+		<p>Scoring the European Parliament – <strong>score-ep.org</strong></p>
+		</h2>
 	</div><!-- /header -->
 	
 	<div role="main" class="ui-content jqm-content">

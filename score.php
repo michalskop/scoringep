@@ -13,6 +13,18 @@
 	<script src="http://demos.jquerymobile.com/1.4.0/_assets/js/index.js"></script>
 	<script src="http://demos.jquerymobile.com/1.4.0/js/jquery.mobile-1.4.0.min.js"></script>
 	<script src="common.js"></script>	
+	<script>	  
+	  $( document ).delegate("#scorePage", "pageinit", function() {
+	    $.ajax({
+            type: 'GET',
+            url: 'sandbag.json',
+            dataType: 'json',
+            success: function (cdata) {
+                $('#logo').attr('src',cdata.organization.logo);
+			}
+		});
+      });
+	</script>
 	
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
@@ -27,10 +39,12 @@
 	
 </head>
 <body>
-<div data-role="page" class="jqm-demos" data-quicklinks="false" id="mepPage">
+<div data-role="page" class="jqm-demos" data-quicklinks="false" id="scorePage">
 	<div data-role="header" class="jqm-header" onclick="document.location.href='index.php'" style="cursor:pointer">
-		<h2><img alt="Scoring EP" id="logo" src="http://www.sandbag.org.uk/site_media/images/sandbag_logo_transparent.png" ></h2>
-		<p>Version 1.0</p>
+		<h2>
+		<img alt="" id="logo" />
+		<p>Scoring the European Parliament – <strong>score-ep.org</strong></p>
+		</h2>
 	</div><!-- /header -->
 	
 	<div role="main" class="ui-content jqm-content">

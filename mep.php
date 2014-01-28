@@ -23,7 +23,7 @@
   ga('create', 'UA-47560460-1', 'laurencewatson.co.uk');
   ga('send', 'pageview');
 
-</script>
+	</script>
 	
 	<script>
 	  var mepid = getParameter('id');
@@ -77,11 +77,15 @@
                         divhtml = divhtml.replace("topicNAME", value.title);
                         $('#topics').append(divhtml);
                         $.each(value.votings, function( i, v ) {
-                          lihtml = '<li><div data-role="collapsible"><h3><div class="boxito votingCLASS"></div>votingNAME</h3><ul id="votingX" data-role="listview" data-inset="true"><p>votingDESCRIPTION</p><a href="votingLINK" class="ui-btn ui-mini ui-btn-inline">This division on VoteWatch</a></ul></div></li>';
+                          lihtml = '<li><div data-role="collapsible"><h3><div class="boxito votingCLASS">votingVAL</div>votingNAME</h3><ul id="votingX"><p>votingDESCRIPTION</p><a href="votingLINK" class="ui-btn ui-mini ui-btn-inline">This division on VoteWatch</a></ul></div></li>';
                           lihtml = lihtml.replace("votingX", "voting" + i);
                           lihtml = lihtml.replace("votingLINK", v.v_link);
+                          
+                          var val = 0;
+                          
                           if (hisvote = findvote(v.v_dbid,data[0].votes)) {
                             if (hisvote.exists) {
+                              
                               if (parseInt(v.v_recommendation)*hisvote.vote == 1)
                                 agreeclass = 'agreement';
                               else
@@ -98,6 +102,7 @@
                           lihtml = lihtml.replace("votingCLASS", agreeclass);
                           lihtml = lihtml.replace("votingNAME", v.v_title);
                           lihtml = lihtml.replace("votingDESCRIPTION", v.v_description);
+                          lihtml = lihtml.replace("votingVAL", v.v_display);
                           $('#topic'+index).append(lihtml);
                           
                         });
@@ -132,8 +137,11 @@
 <body>
 <div data-role="page" class="jqm-demos" data-quicklinks="false" id="mepPage">
 	<div data-role="header" class="jqm-header"  onclick="document.location.href='index.php'" style="cursor:pointer">
-		<h2><img alt="Scoring EP" id="logo"></h2>
-		<p>Version 0</p>
+		<h2>
+		<img alt="" id="logo" />
+		<p>Scoring the European Parliament – <strong>score-ep.org</strong></p>
+		</h2>
+		
 	</div><!-- /header -->
 	
 	<div role="main" class="ui-content jqm-content">
@@ -144,7 +152,7 @@
 		
 		
 		<h2>Scorecard</h2>
-		
+		<p>The score for every Member of Parliament starts at 50 ("undecided") and changes according to the following votes in European Parliament:</p>
 		<div id="topics">
 
 		</div>

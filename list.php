@@ -12,6 +12,19 @@
 	<script src="http://demos.jquerymobile.com/1.4.0/js/jquery.js"></script>
 	<script src="http://demos.jquerymobile.com/1.4.0/_assets/js/index.js"></script>
 	<script src="http://demos.jquerymobile.com/1.4.0/js/jquery.mobile-1.4.0.min.js"></script>
+	<script src="common.js"></script>	
+	<script>	  
+	  $( document ).delegate("#listPage", "pageinit", function() {
+	    $.ajax({
+            type: 'GET',
+            url: 'sandbag.json',
+            dataType: 'json',
+            success: function (cdata) {
+                $('#logo').attr('src',cdata.organization.logo);
+			}
+		});
+      });
+	</script>
 	<script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
@@ -26,8 +39,10 @@
 <body>
 <div data-role="page" class="jqm-demos" data-quicklinks="false" id="listPage">
 	<div data-role="header" class="jqm-header"  onclick="document.location.href='index.php'" style="cursor:pointer">
-		<h2><img alt="Scoring EP" id="logo" src="http://www.sandbag.org.uk/site_media/images/sandbag_logo_transparent.png"></h2>
-		<p>Version 1.0</p>
+		<h2>
+		<img alt="" id="logo" />
+		<p>Scoring the European Parliament – <strong>score-ep.org</strong></p>
+		</h2>
 	</div><!-- /header -->
     <div role="main" class="ui-content jqm-content">
 <ul data-role="listview" data-filter="true" data-filter-placeholder="Search MEPs..." data-inset="true" style="margin: 1em 10%">
@@ -2278,8 +2293,8 @@
 <li data-filtertext="809	fr	113891		Jean-Jacob Bicep	Bicep, Jean-Jacob	VALE	2009		" ><a href="./mep.php?id=809" class="ui-link-inherit" data-ajax="false">
 				 <img class="ui-li-icon ui-corner-none" src="http://lobbyplag.eu/assets/img/flags/20x15/fr.png" /><span>Bicep, Jean-Jacob</span>
 			   </a></li>
-<li data-filtertext="827	IT	118710		Franco Bonanini	Bonanini, Franco	NI	2009		" ><a href="./mep.php?id=827" class="ui-link-inherit" data-ajax="false">
-				 <img class="ui-li-icon ui-corner-none" src="http://lobbyplag.eu/assets/img/flags/20x15/IT.png" /><span>Bonanini, Franco</span>
+<li data-filtertext="827	it	118710		Franco Bonanini	Bonanini, Franco	NI	2009		" ><a href="./mep.php?id=827" class="ui-link-inherit" data-ajax="false">
+				 <img class="ui-li-icon ui-corner-none" src="http://lobbyplag.eu/assets/img/flags/20x15/it.png" /><span>Bonanini, Franco</span>
 			   </a></li>
 <li data-filtertext="458	nl	96893	Member	Louis Bontes	Bontes, Louis 	NI	2009		" ><a href="./mep.php?id=458" class="ui-link-inherit" data-ajax="false">
 				 <img class="ui-li-icon ui-corner-none" src="http://lobbyplag.eu/assets/img/flags/20x15/nl.png" /><span>Bontes, Louis </span>
@@ -2387,7 +2402,7 @@
 				 <img class="ui-li-icon ui-corner-none" src="http://lobbyplag.eu/assets/img/flags/20x15/gb.png" /><span>Lucas, Caroline </span>
 			   </a></li>
 <li data-filtertext="833	Bg	37524		Marusya Lyubcheva	Lyubcheva, Marusya	SD	2009		" ><a href="./mep.php?id=833" class="ui-link-inherit" data-ajax="false">
-				 <img class="ui-li-icon ui-corner-none" src="http://lobbyplag.eu/assets/img/flags/20x15/Bg.png" /><span>Lyubcheva, Marusya</span>
+				 <img class="ui-li-icon ui-corner-none" src="http://lobbyplag.eu/assets/img/flags/20x15/bg.png" /><span>Lyubcheva, Marusya</span>
 			   </a></li>
 <li data-filtertext="784	bg	111027		Svetoslav Hristov Malinov	Malinov, Svetoslav Hristov	PPE	2009		" ><a href="./mep.php?id=784" class="ui-link-inherit" data-ajax="false">
 				 <img class="ui-li-icon ui-corner-none" src="http://lobbyplag.eu/assets/img/flags/20x15/bg.png" /><span>Malinov, Svetoslav Hristov</span>
