@@ -52,7 +52,7 @@
 <li data-filtertext="211	fr	96850	Member	Damien Abad	Abad, Damien 	PPE	2009		" data-filter-reveal="true" ><a href="./mep.php?id=211" class="ui-link-inherit" data-ajax="false">
 				 <img class="ui-li-icon ui-corner-none" src="http://lobbyplag.eu/assets/img/flags/20x15/fr.png" /><span>Abad, Damien </span>
 			   </a></li>
-<li data-filtertext="578	gb	96897	Member	John Stuart Agnew	Agnew, John Stuart 	EFD	2009		" ><a href="./mep.php?id=578" class="ui-link-inherit" data-ajax="false">
+<li data-filtertext="578	gb	96897	Member	John Stuart Agnew	Agnew, John Stuart 	EFD	2009	East of England	     UKIP	" ><a href="./mep.php?id=578" class="ui-link-inherit" data-ajax="false">
 				 <img class="ui-li-icon ui-corner-none" src="http://lobbyplag.eu/assets/img/flags/20x15/gb.png" /><span>Agnew, John Stuart </span>
 			   </a></li>
 <li data-filtertext="213	it	28367	Member of the Bureau	Gabriele Albertini	Albertini, Gabriele 	PPE	2009		" ><a href="./mep.php?id=213" class="ui-link-inherit" data-ajax="false">
@@ -79,7 +79,7 @@
 <li data-filtertext="688	es	96986	Member	Josefa Andrés Barea	Andrés Barea, Josefa 	SD	2009		" ><a href="./mep.php?id=688" class="ui-link-inherit" data-ajax="false">
 				 <img class="ui-li-icon ui-corner-none" src="http://lobbyplag.eu/assets/img/flags/20x15/es.png" /><span>Andrés Barea, Josefa </span>
 			   </a></li>
-<li data-filtertext="638	gb	96954	Vice-Chair/Member of the Bureau	Marta Andreasen	Andreasen, Marta 	EFD	2009		" ><a href="./mep.php?id=638" class="ui-link-inherit" data-ajax="false">
+<li data-filtertext="638	gb	96954	Vice-Chair/Member of the Bureau	Marta Andreasen	Andreasen, Marta 	EFD	2009	South East England	     Conservative	" ><a href="./mep.php?id=638" class="ui-link-inherit" data-ajax="false">
 				 <img class="ui-li-icon ui-corner-none" src="http://lobbyplag.eu/assets/img/flags/20x15/gb.png" /><span>Andreasen, Marta </span>
 			   </a></li>
 <li data-filtertext="214	lt	28276	Member	Laima Liucija Andrikienė	Andrikienė, Laima Liucija 	PPE	2009		" ><a href="./mep.php?id=214" class="ui-link-inherit" data-ajax="false">
@@ -112,10 +112,10 @@
 <li data-filtertext="518	gr	97009	Member	Kriton Arsenis	Arsenis, Kriton 	SD	2009		" ><a href="./mep.php?id=518" class="ui-link-inherit" data-ajax="false">
 				 <img class="ui-li-icon ui-corner-none" src="http://lobbyplag.eu/assets/img/flags/20x15/gr.png" /><span>Arsenis, Kriton </span>
 			   </a></li>
-<li data-filtertext="182	gb	28132	Member	Richard Ashworth	Ashworth, Richard 	ECR	2009		" ><a href="./mep.php?id=182" class="ui-link-inherit" data-ajax="false">
+<li data-filtertext="182	gb	28132	Member	Richard Ashworth	Ashworth, Richard 	ECR	2009	South East England	     Conservative	" ><a href="./mep.php?id=182" class="ui-link-inherit" data-ajax="false">
 				 <img class="ui-li-icon ui-corner-none" src="http://lobbyplag.eu/assets/img/flags/20x15/gb.png" /><span>Ashworth, Richard </span>
 			   </a></li>
-<li data-filtertext="418	gb	4537	Member	Sir Robert Atkins	Atkins, Sir Robert 	ECR	2009		" ><a href="./mep.php?id=418" class="ui-link-inherit" data-ajax="false">
+<li data-filtertext="418	gb	4537	Member	Sir Robert Atkins	Atkins, Sir Robert 	ECR	2009	North West England	     Conservative	" ><a href="./mep.php?id=418" class="ui-link-inherit" data-ajax="false">
 				 <img class="ui-li-icon ui-corner-none" src="http://lobbyplag.eu/assets/img/flags/20x15/gb.png" /><span>Atkins, Sir Robert </span>
 			   </a></li>
 <li data-filtertext="519	mt	23938	Member	John Attard-Montalto	Attard-Montalto, John 	SD	2009		" ><a href="./mep.php?id=519" class="ui-link-inherit" data-ajax="false">
@@ -181,7 +181,7 @@
 <li data-filtertext="463	pt	5956	Member	Regina Bastos	Bastos, Regina 	PPE	2009		" ><a href="./mep.php?id=463" class="ui-link-inherit" data-ajax="false">
 				 <img class="ui-li-icon ui-corner-none" src="http://lobbyplag.eu/assets/img/flags/20x15/pt.png" /><span>Bastos, Regina </span>
 			   </a></li>
-<li data-filtertext="8	gb	28497	Member	Gerard Batten	Batten, Gerard 	EFD	2009		" ><a href="./mep.php?id=8" class="ui-link-inherit" data-ajax="false">
+<li data-filtertext="8	gb	28497	Member	Gerard Batten	Batten, Gerard 	EFD	2009	London	     UKIP	" ><a href="./mep.php?id=8" class="ui-link-inherit" data-ajax="false">
 				 <img class="ui-li-icon ui-corner-none" src="http://lobbyplag.eu/assets/img/flags/20x15/gb.png" /><span>Batten, Gerard </span>
 			   </a></li>
 <li data-filtertext="223	sk	23866	Member of the Bureau	Edit Bauer	Bauer, Edit 	PPE	2009		" ><a href="./mep.php?id=223" class="ui-link-inherit" data-ajax="false">
@@ -199,7 +199,7 @@
 <li data-filtertext="229	cz	28354	Member	Jan Březina	Březina, Jan 	PPE	2009		" ><a href="./mep.php?id=229" class="ui-link-inherit" data-ajax="false">
 				 <img class="ui-li-icon ui-corner-none" src="http://lobbyplag.eu/assets/img/flags/20x15/cz.png" /><span>Březina, Jan </span>
 			   </a></li>
-<li data-filtertext="400	gb	96955	Member	Catherine Bearder	Bearder, Catherine 	ALDE	2009		" ><a href="./mep.php?id=400" class="ui-link-inherit" data-ajax="false">
+<li data-filtertext="400	gb	96955	Member	Catherine Bearder	Bearder, Catherine 	ALDE	2009	South East England	     LibDem	" ><a href="./mep.php?id=400" class="ui-link-inherit" data-ajax="false">
 				 <img class="ui-li-icon ui-corner-none" src="http://lobbyplag.eu/assets/img/flags/20x15/gb.png" /><span>Bearder, Catherine </span>
 			   </a></li>
 <li data-filtertext="603	ro	96846	Member	George Becali	Becali, George 	NI	2009		" ><a href="./mep.php?id=603" class="ui-link-inherit" data-ajax="false">
@@ -265,13 +265,13 @@
 <li data-filtertext="106	fr	96744	Member	José Bové	Bové, José 	VALE	2009		" ><a href="./mep.php?id=106" class="ui-link-inherit" data-ajax="false">
 				 <img class="ui-li-icon ui-corner-none" src="http://lobbyplag.eu/assets/img/flags/20x15/fr.png" /><span>Bové, José </span>
 			   </a></li>
-<li data-filtertext="1	gb	33570	Member of the Bureau	Sharon Bowles	Bowles, Sharon 	ALDE	2009		" ><a href="./mep.php?id=1" class="ui-link-inherit" data-ajax="false">
+<li data-filtertext="1	gb	33570	Member of the Bureau	Sharon Bowles	Bowles, Sharon 	ALDE	2009	South East England	     LibDem	" ><a href="./mep.php?id=1" class="ui-link-inherit" data-ajax="false">
 				 <img class="ui-li-icon ui-corner-none" src="http://lobbyplag.eu/assets/img/flags/20x15/gb.png" /><span>Bowles, Sharon </span>
 			   </a></li>
 <li data-filtertext="663	nl	28171	Member	Emine Bozkurt	Bozkurt, Emine 	SD	2009		" ><a href="./mep.php?id=663" class="ui-link-inherit" data-ajax="false">
 				 <img class="ui-li-icon ui-corner-none" src="http://lobbyplag.eu/assets/img/flags/20x15/nl.png" /><span>Bozkurt, Emine </span>
 			   </a></li>
-<li data-filtertext="184	gb	4540	Co-treasurer	Philip Bradbourn	Bradbourn, Philip 	ECR	2009		" ><a href="./mep.php?id=184" class="ui-link-inherit" data-ajax="false">
+<li data-filtertext="184	gb	4540	Co-treasurer	Philip Bradbourn	Bradbourn, Philip 	ECR	2009	West Midlands	     Conservative	" ><a href="./mep.php?id=184" class="ui-link-inherit" data-ajax="false">
 				 <img class="ui-li-icon ui-corner-none" src="http://lobbyplag.eu/assets/img/flags/20x15/gb.png" /><span>Bradbourn, Philip </span>
 			   </a></li>
 <li data-filtertext="107	de	96662	Member	Franziska Katharina Brantner	Brantner, Franziska Katharina 	VALE	2009		" ><a href="./mep.php?id=107" class="ui-link-inherit" data-ajax="false">
@@ -283,7 +283,7 @@
 <li data-filtertext="230	de	1263	Member of the Bureau	Elmar Brok	Brok, Elmar 	PPE	2009		" ><a href="./mep.php?id=230" class="ui-link-inherit" data-ajax="false">
 				 <img class="ui-li-icon ui-corner-none" src="http://lobbyplag.eu/assets/img/flags/20x15/de.png" /><span>Brok, Elmar </span>
 			   </a></li>
-<li data-filtertext="207	gb	96749	Member	Andrew Henry William Brons	Brons, Andrew Henry William 	NI	2009		" ><a href="./mep.php?id=207" class="ui-link-inherit" data-ajax="false">
+<li data-filtertext="207	gb	96749	Member	Andrew Henry William Brons	Brons, Andrew Henry William 	NI	2009	Yorkshire and the Humber	     BDP	" ><a href="./mep.php?id=207" class="ui-link-inherit" data-ajax="false">
 				 <img class="ui-li-icon ui-corner-none" src="http://lobbyplag.eu/assets/img/flags/20x15/gb.png" /><span>Brons, Andrew Henry William </span>
 			   </a></li>
 <li data-filtertext="622	cz	96716	Member	Zuzana Brzobohatá	Brzobohatá, Zuzana 	SD	2009		" ><a href="./mep.php?id=622" class="ui-link-inherit" data-ajax="false">
@@ -292,7 +292,7 @@
 <li data-filtertext="139	ro	38420	Member	Cristian Silviu Buşoi	Buşoi, Cristian Silviu 	ALDE	2009		" ><a href="./mep.php?id=139" class="ui-link-inherit" data-ajax="false">
 				 <img class="ui-li-icon ui-corner-none" src="http://lobbyplag.eu/assets/img/flags/20x15/ro.png" /><span>Buşoi, Cristian Silviu </span>
 			   </a></li>
-<li data-filtertext="203	gb	96798	Member	John Bufton	Bufton, John 	EFD	2009		" ><a href="./mep.php?id=203" class="ui-link-inherit" data-ajax="false">
+<li data-filtertext="203	gb	96798	Member	John Bufton	Bufton, John 	EFD	2009	Wales	     UKIP		" ><a href="./mep.php?id=203" class="ui-link-inherit" data-ajax="false">
 				 <img class="ui-li-icon ui-corner-none" src="http://lobbyplag.eu/assets/img/flags/20x15/gb.png" /><span>Bufton, John </span>
 			   </a></li>
 <li data-filtertext="32	de	4267	Member	Udo Bullmann	Bullmann, Udo 	SD	2009		" ><a href="./mep.php?id=32" class="ui-link-inherit" data-ajax="false">
@@ -307,10 +307,10 @@
 <li data-filtertext="233	fr	96849	Member	Alain Cadec	Cadec, Alain 	PPE	2009		" ><a href="./mep.php?id=233" class="ui-link-inherit" data-ajax="false">
 				 <img class="ui-li-icon ui-corner-none" src="http://lobbyplag.eu/assets/img/flags/20x15/fr.png" /><span>Cadec, Alain </span>
 			   </a></li>
-<li data-filtertext="592	gb	4536	Member of the Bureau	Martin Callanan	Callanan, Martin 	ECR	2009		" ><a href="./mep.php?id=592" class="ui-link-inherit" data-ajax="false">
+<li data-filtertext="592	gb	4536	Member of the Bureau	Martin Callanan	Callanan, Martin 	ECR	2009	North East England	     Conservative	" ><a href="./mep.php?id=592" class="ui-link-inherit" data-ajax="false">
 				 <img class="ui-li-icon ui-corner-none" src="http://lobbyplag.eu/assets/img/flags/20x15/gb.png" /><span>Callanan, Martin </span>
 			   </a></li>
-<li data-filtertext="204	gb	96912	Member	David Campbell Bannerman	Campbell Bannerman, David 	ECR	2009		" ><a href="./mep.php?id=204" class="ui-link-inherit" data-ajax="false">
+<li data-filtertext="204	gb	96912	Member	David Campbell Bannerman	Campbell Bannerman, David 	ECR	2009	East of England	     Conservative	" ><a href="./mep.php?id=204" class="ui-link-inherit" data-ajax="false">
 				 <img class="ui-li-icon ui-corner-none" src="http://lobbyplag.eu/assets/img/flags/20x15/gb.png" /><span>Campbell Bannerman, David </span>
 			   </a></li>
 <li data-filtertext="467	it	96733	Member	Antonio Cancian	Cancian, Antonio 	PPE	2009		" ><a href="./mep.php?id=467" class="ui-link-inherit" data-ajax="false">
@@ -331,7 +331,7 @@
 <li data-filtertext="236	mt	28122	Member	David Casa	Casa, David 	PPE	2009		" ><a href="./mep.php?id=236" class="ui-link-inherit" data-ajax="false">
 				 <img class="ui-li-icon ui-corner-none" src="http://lobbyplag.eu/assets/img/flags/20x15/mt.png" /><span>Casa, David </span>
 			   </a></li>
-<li data-filtertext="689	gb	4532	Member	Michael Cashman	Cashman, Michael 	SD	2009		" ><a href="./mep.php?id=689" class="ui-link-inherit" data-ajax="false">
+<li data-filtertext="689	gb	4532	Member	Michael Cashman	Cashman, Michael 	SD	2009	West Midlands	     Labour	" ><a href="./mep.php?id=689" class="ui-link-inherit" data-ajax="false">
 				 <img class="ui-li-icon ui-corner-none" src="http://lobbyplag.eu/assets/img/flags/20x15/gb.png" /><span>Cashman, Michael </span>
 			   </a></li>
 <li data-filtertext="237	de	28219	Member of the Bureau	Daniel Caspary	Caspary, Daniel 	PPE	2009		" ><a href="./mep.php?id=237" class="ui-link-inherit" data-ajax="false">
@@ -349,7 +349,7 @@
 <li data-filtertext="140	de	28243	Member	Jorgo Chatzimarkakis	Chatzimarkakis, Jorgo 	ALDE	2009		" ><a href="./mep.php?id=140" class="ui-link-inherit" data-ajax="false">
 				 <img class="ui-li-icon ui-corner-none" src="http://lobbyplag.eu/assets/img/flags/20x15/de.png" /><span>Chatzimarkakis, Jorgo </span>
 			   </a></li>
-<li data-filtertext="185	gb	2097	Member of the Bureau	Giles Chichester	Chichester, Giles 	ECR	2009		" ><a href="./mep.php?id=185" class="ui-link-inherit" data-ajax="false">
+<li data-filtertext="185	gb	2097	Member of the Bureau	Giles Chichester	Chichester, Giles 	ECR	2009	South West England	     Conservative	" ><a href="./mep.php?id=185" class="ui-link-inherit" data-ajax="false">
 				 <img class="ui-li-icon ui-corner-none" src="http://lobbyplag.eu/assets/img/flags/20x15/gb.png" /><span>Chichester, Giles </span>
 			   </a></li>
 <li data-filtertext="522	ie	96603	Member	Nessa Childers	Childers, Nessa 	SD	2009		" ><a href="./mep.php?id=522" class="ui-link-inherit" data-ajax="false">
@@ -364,7 +364,7 @@
 <li data-filtertext="391	be	24030	Member	Philip Claeys	Claeys, Philip 	NI	2009		" ><a href="./mep.php?id=391" class="ui-link-inherit" data-ajax="false">
 				 <img class="ui-li-icon ui-corner-none" src="http://lobbyplag.eu/assets/img/flags/20x15/be.png" /><span>Claeys, Philip </span>
 			   </a></li>
-<li data-filtertext="579	gb	28493	Member	Derek Roland Clark	Clark, Derek Roland 	EFD	2009		" ><a href="./mep.php?id=579" class="ui-link-inherit" data-ajax="false">
+<li data-filtertext="579	gb	28493	Member	Derek Roland Clark	Clark, Derek Roland 	EFD	2009	East Midlands	     UKIP	" ><a href="./mep.php?id=579" class="ui-link-inherit" data-ajax="false">
 				 <img class="ui-li-icon ui-corner-none" src="http://lobbyplag.eu/assets/img/flags/20x15/gb.png" /><span>Clark, Derek Roland </span>
 			   </a></li>
 <li data-filtertext="239	pt	1892	Member	Carlos Coelho	Coelho, Carlos 	PPE	2009		" ><a href="./mep.php?id=239" class="ui-link-inherit" data-ajax="false">
@@ -373,7 +373,7 @@
 <li data-filtertext="524	it	96915	Member	Sergio Gaetano Cofferati	Cofferati, Sergio Gaetano 	SD	2009		" ><a href="./mep.php?id=524" class="ui-link-inherit" data-ajax="false">
 				 <img class="ui-li-icon ui-corner-none" src="http://lobbyplag.eu/assets/img/flags/20x15/it.png" /><span>Cofferati, Sergio Gaetano </span>
 			   </a></li>
-<li data-filtertext="639	gb	94283	Member	Trevor Colman	Colman, Trevor 	NI	2009		" ><a href="./mep.php?id=639" class="ui-link-inherit" data-ajax="false">
+<li data-filtertext="639	gb	94283	Member	Trevor Colman	Colman, Trevor 	NI	2009	South West England	     UKIP	" ><a href="./mep.php?id=639" class="ui-link-inherit" data-ajax="false">
 				 <img class="ui-li-icon ui-corner-none" src="http://lobbyplag.eu/assets/img/flags/20x15/gb.png" /><span>Colman, Trevor </span>
 			   </a></li>
 <li data-filtertext="240	it	96775	Member	Lara Comi	Comi, Lara 	PPE	2009		" ><a href="./mep.php?id=240" class="ui-link-inherit" data-ajax="false">
@@ -430,7 +430,7 @@
 <li data-filtertext="243	fr	97296	Member	Michel Dantin	Dantin, Michel 	PPE	2009		" ><a href="./mep.php?id=243" class="ui-link-inherit" data-ajax="false">
 				 <img class="ui-li-icon ui-corner-none" src="http://lobbyplag.eu/assets/img/flags/20x15/fr.png" /><span>Dantin, Michel </span>
 			   </a></li>
-<li data-filtertext="580	gb	96958	Member	William (the Earl of) Dartmouth	Dartmouth, William (the Earl of) 	EFD	2009		" ><a href="./mep.php?id=580" class="ui-link-inherit" data-ajax="false">
+<li data-filtertext="580	gb	96958	Member	William (the Earl of) Dartmouth	Dartmouth, William (the Earl of) 	EFD	2009	South West England	     UKIP	" ><a href="./mep.php?id=580" class="ui-link-inherit" data-ajax="false">
 				 <img class="ui-li-icon ui-corner-none" src="http://lobbyplag.eu/assets/img/flags/20x15/gb.png" /><span>Dartmouth, William (the Earl of) </span>
 			   </a></li>
 <li data-filtertext="673	fr	72775	Member	Rachida Dati	Dati, Rachida 	PPE	2009		" ><a href="./mep.php?id=673" class="ui-link-inherit" data-ajax="false">
@@ -439,7 +439,7 @@
 <li data-filtertext="245	pt	96973	Member	Mário David	David, Mário 	PPE	2009		" ><a href="./mep.php?id=245" class="ui-link-inherit" data-ajax="false">
 				 <img class="ui-li-icon ui-corner-none" src="http://lobbyplag.eu/assets/img/flags/20x15/pt.png" /><span>David, Mário </span>
 			   </a></li>
-<li data-filtertext="142	gb	4554	Member	Chris Davies	Davies, Chris 	ALDE	2009		" ><a href="./mep.php?id=142" class="ui-link-inherit" data-ajax="false">
+<li data-filtertext="142	gb	4554	Member	Chris Davies	Davies, Chris 	ALDE	2009	North West England	     LibDem	" ><a href="./mep.php?id=142" class="ui-link-inherit" data-ajax="false">
 				 <img class="ui-li-icon ui-corner-none" src="http://lobbyplag.eu/assets/img/flags/20x15/gb.png" /><span>Davies, Chris </span>
 			   </a></li>
 <li data-filtertext="649	fr	4318	Member	Harlem Désir	Désir, Harlem 	SD	2009		" ><a href="./mep.php?id=649" class="ui-link-inherit" data-ajax="false">
@@ -493,10 +493,10 @@
 <li data-filtertext="248	hu	96826	Member	Tamás Deutsch	Deutsch, Tamás 	PPE	2009		" ><a href="./mep.php?id=248" class="ui-link-inherit" data-ajax="false">
 				 <img class="ui-li-icon ui-corner-none" src="http://lobbyplag.eu/assets/img/flags/20x15/hu.png" /><span>Deutsch, Tamás </span>
 			   </a></li>
-<li data-filtertext="708	gb	4556	Member	Nirj Deva	Deva, Nirj 	ECR	2009		" ><a href="./mep.php?id=708" class="ui-link-inherit" data-ajax="false">
+<li data-filtertext="708	gb	4556	Member	Nirj Deva	Deva, Nirj 	ECR	2009	South East England	     Conservative	" ><a href="./mep.php?id=708" class="ui-link-inherit" data-ajax="false">
 				 <img class="ui-li-icon ui-corner-none" src="http://lobbyplag.eu/assets/img/flags/20x15/gb.png" /><span>Deva, Nirj </span>
 			   </a></li>
-<li data-filtertext="654	gb	96951	Member	Diane Dodds	Dodds, Diane 	NI	2009		" ><a href="./mep.php?id=654" class="ui-link-inherit" data-ajax="false">
+<li data-filtertext="654	gb	96951	Member	Diane Dodds	Dodds, Diane 	NI	2009	Northern Ireland	     DUP	" ><a href="./mep.php?id=654" class="ui-link-inherit" data-ajax="false">
 				 <img class="ui-li-icon ui-corner-none" src="http://lobbyplag.eu/assets/img/flags/20x15/gb.png" /><span>Dodds, Diane </span>
 			   </a></li>
 <li data-filtertext="693	it	96888	Member	Leonardo Domenici	Domenici, Leonardo 	SD	2009		" ><a href="./mep.php?id=693" class="ui-link-inherit" data-ajax="false">
@@ -511,7 +511,7 @@
 <li data-filtertext="623	cz	96717	Member	Robert Dušek	Dušek, Robert 	SD	2009		" ><a href="./mep.php?id=623" class="ui-link-inherit" data-ajax="false">
 				 <img class="ui-li-icon ui-corner-none" src="http://lobbyplag.eu/assets/img/flags/20x15/cz.png" /><span>Dušek, Robert </span>
 			   </a></li>
-<li data-filtertext="143	gb	4514	Member	Andrew Duff	Duff, Andrew 	ALDE	2009		" ><a href="./mep.php?id=143" class="ui-link-inherit" data-ajax="false">
+<li data-filtertext="143	gb	4514	Member	Andrew Duff	Duff, Andrew 	ALDE	2009	East of England	     LibDem		" ><a href="./mep.php?id=143" class="ui-link-inherit" data-ajax="false">
 				 <img class="ui-li-icon ui-corner-none" src="http://lobbyplag.eu/assets/img/flags/20x15/gb.png" /><span>Duff, Andrew </span>
 			   </a></li>
 <li data-filtertext="652	be	96639	Member	Isabelle Durant	Durant, Isabelle 	VALE	2009		" ><a href="./mep.php?id=652" class="ui-link-inherit" data-ajax="false">
@@ -532,7 +532,7 @@
 <li data-filtertext="36	be	25718	Member	Saïd El Khadraoui	El Khadraoui, Saïd 	SD	2009		" ><a href="./mep.php?id=36" class="ui-link-inherit" data-ajax="false">
 				 <img class="ui-li-icon ui-corner-none" src="http://lobbyplag.eu/assets/img/flags/20x15/be.png" /><span>El Khadraoui, Saïd </span>
 			   </a></li>
-<li data-filtertext="187	gb	1419	Member	James Elles	Elles, James 	ECR	2009		" ><a href="./mep.php?id=187" class="ui-link-inherit" data-ajax="false">
+<li data-filtertext="187	gb	1419	Member	James Elles	Elles, James 	ECR	2009	South East England	     Conservative	" ><a href="./mep.php?id=187" class="ui-link-inherit" data-ajax="false">
 				 <img class="ui-li-icon ui-corner-none" src="http://lobbyplag.eu/assets/img/flags/20x15/gb.png" /><span>Elles, James </span>
 			   </a></li>
 <li data-filtertext="37	ro	96859	Member	Ioan Enciu	Enciu, Ioan 	SD	2009		" ><a href="./mep.php?id=37" class="ui-link-inherit" data-ajax="false">
@@ -553,7 +553,7 @@
 <li data-filtertext="608	es	96811	Member	Rosa Estaras Ferragut	Estaras Ferragut, Rosa 	PPE	2009		" ><a href="./mep.php?id=608" class="ui-link-inherit" data-ajax="false">
 				 <img class="ui-li-icon ui-corner-none" src="http://lobbyplag.eu/assets/img/flags/20x15/es.png" /><span>Estaras Ferragut, Rosa </span>
 			   </a></li>
-<li data-filtertext="115	gb	4550	Vice-Chair	Jill Evans	Evans, Jill 	VALE	2009		" ><a href="./mep.php?id=115" class="ui-link-inherit" data-ajax="false">
+<li data-filtertext="115	gb	4550	Vice-Chair	Jill Evans	Evans, Jill 	VALE	2009	Wales	     Plaid Cymru	" ><a href="./mep.php?id=115" class="ui-link-inherit" data-ajax="false">
 				 <img class="ui-li-icon ui-corner-none" src="http://lobbyplag.eu/assets/img/flags/20x15/gb.png" /><span>Evans, Jill </span>
 			   </a></li>
 <li data-filtertext="423	cz	23695	Co-treasurer	Hynek Fajmon	Fajmon, Hynek 	ECR	2009		" ><a href="./mep.php?id=423" class="ui-link-inherit" data-ajax="false">
@@ -601,10 +601,10 @@
 <li data-filtertext="438	it	96993	Member	Lorenzo Fontana	Fontana, Lorenzo 	EFD	2009		" ><a href="./mep.php?id=438" class="ui-link-inherit" data-ajax="false">
 				 <img class="ui-li-icon ui-corner-none" src="http://lobbyplag.eu/assets/img/flags/20x15/it.png" /><span>Fontana, Lorenzo </span>
 			   </a></li>
-<li data-filtertext="643	gb	96949	Member	Vicky Ford	Ford, Vicky 	ECR	2009		" ><a href="./mep.php?id=643" class="ui-link-inherit" data-ajax="false">
+<li data-filtertext="643	gb	96949	Member	Vicky Ford	Ford, Vicky 	ECR	2009	East of England	     Conservative	" ><a href="./mep.php?id=643" class="ui-link-inherit" data-ajax="false">
 				 <img class="ui-li-icon ui-corner-none" src="http://lobbyplag.eu/assets/img/flags/20x15/gb.png" /><span>Ford, Vicky </span>
 			   </a></li>
-<li data-filtertext="188	gb	4553	Member	Jacqueline Foster	Foster, Jacqueline 	ECR	2009		" ><a href="./mep.php?id=188" class="ui-link-inherit" data-ajax="false">
+<li data-filtertext="188	gb	4553	Member	Jacqueline Foster	Foster, Jacqueline 	ECR	2009	North West England	     Conservative	" ><a href="./mep.php?id=188" class="ui-link-inherit" data-ajax="false">
 				 <img class="ui-li-icon ui-corner-none" src="http://lobbyplag.eu/assets/img/flags/20x15/gb.png" /><span>Foster, Jacqueline </span>
 			   </a></li>
 <li data-filtertext="257	es	1993	Member of the Bureau	Carmen Fraga Estévez	Fraga Estévez, Carmen 	PPE	2009		" ><a href="./mep.php?id=257" class="ui-link-inherit" data-ajax="false">
@@ -670,7 +670,7 @@
 <li data-filtertext="533	pl	28379	Member	Adam Gierek	Gierek, Adam 	SD	2009		" ><a href="./mep.php?id=533" class="ui-link-inherit" data-ajax="false">
 				 <img class="ui-li-icon ui-corner-none" src="http://lobbyplag.eu/assets/img/flags/20x15/pl.png" /><span>Gierek, Adam </span>
 			   </a></li>
-<li data-filtertext="189	gb	96956	Member	Julie Girling	Girling, Julie 	ECR	2009		" ><a href="./mep.php?id=189" class="ui-link-inherit" data-ajax="false">
+<li data-filtertext="189	gb	96956	Member	Julie Girling	Girling, Julie 	ECR	2009	North West England	     Conservative	" ><a href="./mep.php?id=189" class="ui-link-inherit" data-ajax="false">
 				 <img class="ui-li-icon ui-corner-none" src="http://lobbyplag.eu/assets/img/flags/20x15/gb.png" /><span>Girling, Julie </span>
 			   </a></li>
 <li data-filtertext="43	de	1902	Member	Norbert Glante	Glante, Norbert 	SD	2009		" ><a href="./mep.php?id=43" class="ui-link-inherit" data-ajax="false">
@@ -715,7 +715,7 @@
 <li data-filtertext="4	fr	28208	Member	Nathalie Griesbeck	Griesbeck, Nathalie 	ALDE	2009		" ><a href="./mep.php?id=4" class="ui-link-inherit" data-ajax="false">
 				 <img class="ui-li-icon ui-corner-none" src="http://lobbyplag.eu/assets/img/flags/20x15/fr.png" /><span>Griesbeck, Nathalie </span>
 			   </a></li>
-<li data-filtertext="209	gb	96751	Member	Nick Griffin	Griffin, Nick 	NI	2009		" ><a href="./mep.php?id=209" class="ui-link-inherit" data-ajax="false">
+<li data-filtertext="209	gb	96751	Member	Nick Griffin	Griffin, Nick 	NI	2009	North West England	     BNP	" ><a href="./mep.php?id=209" class="ui-link-inherit" data-ajax="false">
 				 <img class="ui-li-icon ui-corner-none" src="http://lobbyplag.eu/assets/img/flags/20x15/gb.png" /><span>Griffin, Nick </span>
 			   </a></li>
 <li data-filtertext="659	de	34728	Member	Matthias Groote	Groote, Matthias 	SD	2009		" ><a href="./mep.php?id=659" class="ui-link-inherit" data-ajax="false">
@@ -751,7 +751,7 @@
 <li data-filtertext="146	fi	96683	Member of the Bureau	Carl Haglund	Haglund, Carl 	ALDE	2009		" ><a href="./mep.php?id=146" class="ui-link-inherit" data-ajax="false">
 				 <img class="ui-li-icon ui-corner-none" src="http://lobbyplag.eu/assets/img/flags/20x15/fi.png" /><span>Haglund, Carl </span>
 			   </a></li>
-<li data-filtertext="147	gb	28477	Member of the Bureau	Fiona Hall	Hall, Fiona 	ALDE	2009		" ><a href="./mep.php?id=147" class="ui-link-inherit" data-ajax="false">
+<li data-filtertext="147	gb	28477	Member of the Bureau	Fiona Hall	Hall, Fiona 	ALDE	2009	North East England	     LibDem		" ><a href="./mep.php?id=147" class="ui-link-inherit" data-ajax="false">
 				 <img class="ui-li-icon ui-corner-none" src="http://lobbyplag.eu/assets/img/flags/20x15/gb.png" /><span>Hall, Fiona </span>
 			   </a></li>
 <li data-filtertext="657	pl	28275	Member	Małgorzata Handzlik	Handzlik, Małgorzata 	PPE	2009		" ><a href="./mep.php?id=657" class="ui-link-inherit" data-ajax="false">
@@ -760,10 +760,10 @@
 <li data-filtertext="720	hu	96707	Member	Ágnes Hankiss	Hankiss, Ágnes 	PPE	2009		" ><a href="./mep.php?id=720" class="ui-link-inherit" data-ajax="false">
 				 <img class="ui-li-icon ui-corner-none" src="http://lobbyplag.eu/assets/img/flags/20x15/hu.png" /><span>Hankiss, Ágnes </span>
 			   </a></li>
-<li data-filtertext="191	gb	4555	Member	Daniel Hannan	Hannan, Daniel 	ECR	2009		" ><a href="./mep.php?id=191" class="ui-link-inherit" data-ajax="false">
+<li data-filtertext="191	gb	4555	Member	Daniel Hannan	Hannan, Daniel 	ECR	2009	South East England	     Conservative	" ><a href="./mep.php?id=191" class="ui-link-inherit" data-ajax="false">
 				 <img class="ui-li-icon ui-corner-none" src="http://lobbyplag.eu/assets/img/flags/20x15/gb.png" /><span>Hannan, Daniel </span>
 			   </a></li>
-<li data-filtertext="192	gb	4538	Member of the Bureau	Malcolm Harbour	Harbour, Malcolm 	ECR	2009		" ><a href="./mep.php?id=192" class="ui-link-inherit" data-ajax="false">
+<li data-filtertext="192	gb	4538	Member of the Bureau	Malcolm Harbour	Harbour, Malcolm 	ECR	2009	West Midlands	     Conservative	" ><a href="./mep.php?id=192" class="ui-link-inherit" data-ajax="false">
 				 <img class="ui-li-icon ui-corner-none" src="http://lobbyplag.eu/assets/img/flags/20x15/gb.png" /><span>Harbour, Malcolm </span>
 			   </a></li>
 <li data-filtertext="148	ie	28116	Member of the Bureau	Marian Harkin	Harkin, Marian 	ALDE	2009		" ><a href="./mep.php?id=148" class="ui-link-inherit" data-ajax="false">
@@ -796,7 +796,7 @@
 <li data-filtertext="47	se	28131	Member	Anna Hedh	Hedh, Anna 	SD	2009		" ><a href="./mep.php?id=47" class="ui-link-inherit" data-ajax="false">
 				 <img class="ui-li-icon ui-corner-none" src="http://lobbyplag.eu/assets/img/flags/20x15/se.png" /><span>Hedh, Anna </span>
 			   </a></li>
-<li data-filtertext="577	gb	4516	Member	Roger Helmer	Helmer, Roger 	ECR	2009		" ><a href="./mep.php?id=577" class="ui-link-inherit" data-ajax="false">
+<li data-filtertext="577	gb	4516	Member	Roger Helmer	Helmer, Roger 	ECR	2009	East Midlands	     UKIP	" ><a href="./mep.php?id=577" class="ui-link-inherit" data-ajax="false">
 				 <img class="ui-li-icon ui-corner-none" src="http://lobbyplag.eu/assets/img/flags/20x15/gb.png" /><span>Helmer, Roger </span>
 			   </a></li>
 <li data-filtertext="270	es	22418	Member	Esther Herranz García	Herranz García, Esther 	PPE	2009		" ><a href="./mep.php?id=270" class="ui-link-inherit" data-ajax="false">
@@ -820,16 +820,16 @@
 <li data-filtertext="647	de	96780	Member	Monika Hohlmeier	Hohlmeier, Monika 	PPE	2009		" ><a href="./mep.php?id=647" class="ui-link-inherit" data-ajax="false">
 				 <img class="ui-li-icon ui-corner-none" src="http://lobbyplag.eu/assets/img/flags/20x15/de.png" /><span>Hohlmeier, Monika </span>
 			   </a></li>
-<li data-filtertext="538	gb	5846	Member	Mary Honeyball	Honeyball, Mary 	SD	2009		" ><a href="./mep.php?id=538" class="ui-link-inherit" data-ajax="false">
+<li data-filtertext="538	gb	5846	Member	Mary Honeyball	Honeyball, Mary 	SD	2009	London	     Labour	" ><a href="./mep.php?id=538" class="ui-link-inherit" data-ajax="false">
 				 <img class="ui-li-icon ui-corner-none" src="http://lobbyplag.eu/assets/img/flags/20x15/gb.png" /><span>Honeyball, Mary </span>
 			   </a></li>
 <li data-filtertext="761	fr	5565	Member	Brice Hortefeux	Hortefeux, Brice 	PPE	2009		" ><a href="./mep.php?id=761" class="ui-link-inherit" data-ajax="false">
 				 <img class="ui-li-icon ui-corner-none" src="http://lobbyplag.eu/assets/img/flags/20x15/fr.png" /><span>Hortefeux, Brice </span>
 			   </a></li>
-<li data-filtertext="539	gb	2073	Member	Richard Howitt	Howitt, Richard 	SD	2009		" ><a href="./mep.php?id=539" class="ui-link-inherit" data-ajax="false">
+<li data-filtertext="539	gb	2073	Member	Richard Howitt	Howitt, Richard 	SD	2009	East of England	     Labour	" ><a href="./mep.php?id=539" class="ui-link-inherit" data-ajax="false">
 				 <img class="ui-li-icon ui-corner-none" src="http://lobbyplag.eu/assets/img/flags/20x15/gb.png" /><span>Howitt, Richard </span>
 			   </a></li>
-<li data-filtertext="119	gb	2338	Member	Ian Hudghton	Hudghton, Ian 	VALE	2009		" ><a href="./mep.php?id=119" class="ui-link-inherit" data-ajax="false">
+<li data-filtertext="119	gb	2338	Member	Ian Hudghton	Hudghton, Ian 	VALE	2009	Scotland	     SNP		" ><a href="./mep.php?id=119" class="ui-link-inherit" data-ajax="false">
 				 <img class="ui-li-icon ui-corner-none" src="http://lobbyplag.eu/assets/img/flags/20x15/gb.png" /><span>Hudghton, Ian </span>
 			   </a></li>
 <li data-filtertext="151	bg	34249	Member of the Bureau	Filiz Hakaeva Hyusmenova	Hyusmenova, Filiz Hakaeva 	ALDE	2009		" ><a href="./mep.php?id=151" class="ui-link-inherit" data-ajax="false">
@@ -925,7 +925,7 @@
 <li data-filtertext="484	lv	96934	Member	Sandra Kalniete	Kalniete, Sandra 	PPE	2009		" ><a href="./mep.php?id=484" class="ui-link-inherit" data-ajax="false">
 				 <img class="ui-li-icon ui-corner-none" src="http://lobbyplag.eu/assets/img/flags/20x15/lv.png" /><span>Kalniete, Sandra </span>
 			   </a></li>
-<li data-filtertext="425	gb	33569	Member	Syed Kamall	Kamall, Syed 	ECR	2009		" ><a href="./mep.php?id=425" class="ui-link-inherit" data-ajax="false">
+<li data-filtertext="425	gb	33569	Member	Syed Kamall	Kamall, Syed 	ECR	2009	London	     Conservative	" ><a href="./mep.php?id=425" class="ui-link-inherit" data-ajax="false">
 				 <img class="ui-li-icon ui-corner-none" src="http://lobbyplag.eu/assets/img/flags/20x15/gb.png" /><span>Kamall, Syed </span>
 			   </a></li>
 <li data-filtertext="426	pl	23792	Member of the Bureau	Michał Tomasz Kamiński	Kamiński, Michał Tomasz 	ECR	2009		" ><a href="./mep.php?id=426" class="ui-link-inherit" data-ajax="false">
@@ -934,7 +934,7 @@
 <li data-filtertext="51	de	96837	Member	Petra Kammerevert	Kammerevert, Petra 	SD	2009		" ><a href="./mep.php?id=51" class="ui-link-inherit" data-ajax="false">
 				 <img class="ui-li-icon ui-corner-none" src="http://lobbyplag.eu/assets/img/flags/20x15/de.png" /><span>Kammerevert, Petra </span>
 			   </a></li>
-<li data-filtertext="594	gb	28481	Member	Sajjad Karim	Karim, Sajjad 	ECR	2009		" ><a href="./mep.php?id=594" class="ui-link-inherit" data-ajax="false">
+<li data-filtertext="594	gb	28481	Member	Sajjad Karim	Karim, Sajjad 	ECR	2009	North West England	     Conservative	" ><a href="./mep.php?id=594" class="ui-link-inherit" data-ajax="false">
 				 <img class="ui-li-icon ui-corner-none" src="http://lobbyplag.eu/assets/img/flags/20x15/gb.png" /><span>Karim, Sajjad </span>
 			   </a></li>
 <li data-filtertext="287	de	25919	Member	Martin Kastler	Kastler, Martin 	PPE	2009		" ><a href="./mep.php?id=287" class="ui-link-inherit" data-ajax="false">
@@ -1036,7 +1036,7 @@
 <li data-filtertext="297	fr	1204	Member of the Bureau	Alain Lamassoure	Lamassoure, Alain 	PPE	2009		" ><a href="./mep.php?id=297" class="ui-link-inherit" data-ajax="false">
 				 <img class="ui-li-icon ui-corner-none" src="http://lobbyplag.eu/assets/img/flags/20x15/fr.png" /><span>Lamassoure, Alain </span>
 			   </a></li>
-<li data-filtertext="706	gb	4531	Member	Jean Lambert	Lambert, Jean 	VALE	2009		" ><a href="./mep.php?id=706" class="ui-link-inherit" data-ajax="false">
+<li data-filtertext="706	gb	4531	Member	Jean Lambert	Lambert, Jean 	VALE	2009	London	     Greens (E&W)	" ><a href="./mep.php?id=706" class="ui-link-inherit" data-ajax="false">
 				 <img class="ui-li-icon ui-corner-none" src="http://lobbyplag.eu/assets/img/flags/20x15/gb.png" /><span>Lambert, Jean </span>
 			   </a></li>
 <li data-filtertext="669	be	96648	Member	Philippe Lamberts	Lamberts, Philippe 	VALE	2009		" ><a href="./mep.php?id=669" class="ui-link-inherit" data-ajax="false">
@@ -1093,7 +1093,7 @@
 <li data-filtertext="306	es	96765	Member	Veronica Lope Fontagné	Lope Fontagné, Veronica 	PPE	2009		" ><a href="./mep.php?id=306" class="ui-link-inherit" data-ajax="false">
 				 <img class="ui-li-icon ui-corner-none" src="http://lobbyplag.eu/assets/img/flags/20x15/es.png" /><span>Lope Fontagné, Veronica </span>
 			   </a></li>
-<li data-filtertext="162	gb	4529	Member	Baroness Sarah Ludford	Ludford, Baroness Sarah 	ALDE	2009		" ><a href="./mep.php?id=162" class="ui-link-inherit" data-ajax="false">
+<li data-filtertext="162	gb	4529	Member	Baroness Sarah Ludford	Ludford, Baroness Sarah 	ALDE	2009	London	     LibDem	" ><a href="./mep.php?id=162" class="ui-link-inherit" data-ajax="false">
 				 <img class="ui-li-icon ui-corner-none" src="http://lobbyplag.eu/assets/img/flags/20x15/gb.png" /><span>Ludford, Baroness Sarah </span>
 			   </a></li>
 <li data-filtertext="60	se	96673	Member	Olle Ludvigsson	Ludvigsson, Olle 	SD	2009		" ><a href="./mep.php?id=60" class="ui-link-inherit" data-ajax="false">
@@ -1108,10 +1108,10 @@
 <li data-filtertext="124	at	97017	Member	Ulrike Lunacek	Lunacek, Ulrike 	VALE	2009		" ><a href="./mep.php?id=124" class="ui-link-inherit" data-ajax="false">
 				 <img class="ui-li-icon ui-corner-none" src="http://lobbyplag.eu/assets/img/flags/20x15/at.png" /><span>Lunacek, Ulrike </span>
 			   </a></li>
-<li data-filtertext="407	gb	4541	Member	Elizabeth Lynne	Lynne, Elizabeth 	ALDE	2009		" ><a href="./mep.php?id=407" class="ui-link-inherit" data-ajax="false">
+<li data-filtertext="407	gb	4541	Member	Elizabeth Lynne	Lynne, Elizabeth 	ALDE	2009	West Midlands	     LibDem	" ><a href="./mep.php?id=407" class="ui-link-inherit" data-ajax="false">
 				 <img class="ui-li-icon ui-corner-none" src="http://lobbyplag.eu/assets/img/flags/20x15/gb.png" /><span>Lynne, Elizabeth </span>
 			   </a></li>
-<li data-filtertext="5	gb	96959	Member	George Lyon	Lyon, George 	ALDE	2009		" ><a href="./mep.php?id=5" class="ui-link-inherit" data-ajax="false">
+<li data-filtertext="5	gb	96959	Member	George Lyon	Lyon, George 	ALDE	2009	Scotland	     LibDem	" ><a href="./mep.php?id=5" class="ui-link-inherit" data-ajax="false">
 				 <img class="ui-li-icon ui-corner-none" src="http://lobbyplag.eu/assets/img/flags/20x15/gb.png" /><span>Lyon, George </span>
 			   </a></li>
 <li data-filtertext="449	cz	23704	Treasurer	Jiří Maštálka	Maštálka, Jiří 	GUENGL	2009		" ><a href="./mep.php?id=449" class="ui-link-inherit" data-ajax="false">
@@ -1141,7 +1141,7 @@
 <li data-filtertext="64	es	4346	Member	Miguel Angel Martínez Martínez	Martínez Martínez, Miguel Angel 	SD	2009		" ><a href="./mep.php?id=64" class="ui-link-inherit" data-ajax="false">
 				 <img class="ui-li-icon ui-corner-none" src="http://lobbyplag.eu/assets/img/flags/20x15/es.png" /><span>Martínez Martínez, Miguel Angel </span>
 			   </a></li>
-<li data-filtertext="545	gb	1403	Member	David Martin	Martin, David	SD	2009		" ><a href="./mep.php?id=545" class="ui-link-inherit" data-ajax="false">
+<li data-filtertext="545	gb	1403	Member	David Martin	Martin, David	SD	2009	Scotland	     Labour	" ><a href="./mep.php?id=545" class="ui-link-inherit" data-ajax="false">
 				 <img class="ui-li-icon ui-corner-none" src="http://lobbyplag.eu/assets/img/flags/20x15/gb.png" /><span>Martin, David</span>
 			   </a></li>
 <li data-filtertext="22	at	4238	Member	Hans-Peter Martin	Martin, Hans-Peter	NI	2009		" ><a href="./mep.php?id=22" class="ui-link-inherit" data-ajax="false">
@@ -1192,13 +1192,13 @@
 <li data-filtertext="408	ro	39717	Member	Ramona Nicole Mănescu	Mănescu, Ramona Nicole 	ALDE	2009		" ><a href="./mep.php?id=408" class="ui-link-inherit" data-ajax="false">
 				 <img class="ui-li-icon ui-corner-none" src="http://lobbyplag.eu/assets/img/flags/20x15/ro.png" /><span>Mănescu, Ramona Nicole </span>
 			   </a></li>
-<li data-filtertext="61	gb	2327	Member	Linda Mcavan	McAvan, Linda	SD	2009		" ><a href="./mep.php?id=61" class="ui-link-inherit" data-ajax="false">
+<li data-filtertext="61	gb	2327	Member	Linda Mcavan	McAvan, Linda	SD	2009	Yorkshire and the Humber	     Labour	" ><a href="./mep.php?id=61" class="ui-link-inherit" data-ajax="false">
 				 <img class="ui-li-icon ui-corner-none" src="http://lobbyplag.eu/assets/img/flags/20x15/gb.png" /><span>McAvan, Linda</span>
 			   </a></li>
-<li data-filtertext="62	gb	2173	Member	Arlene Mccarthy	McCarthy, Arlene	SD	2009		" ><a href="./mep.php?id=62" class="ui-link-inherit" data-ajax="false">
+<li data-filtertext="62	gb	2173	Member	Arlene Mccarthy	McCarthy, Arlene	SD	2009	North West England	     Labour	" ><a href="./mep.php?id=62" class="ui-link-inherit" data-ajax="false">
 				 <img class="ui-li-icon ui-corner-none" src="http://lobbyplag.eu/assets/img/flags/20x15/gb.png" /><span>McCarthy, Arlene</span>
 			   </a></li>
-<li data-filtertext="427	gb	96919	Member	Emma Mcclarkin	Mcclarkin, Emma 	ECR	2009		" ><a href="./mep.php?id=427" class="ui-link-inherit" data-ajax="false">
+<li data-filtertext="427	gb	96919	Member	Emma Mcclarkin	Mcclarkin, Emma 	ECR	2009	East Midlands	     Conservative	" ><a href="./mep.php?id=427" class="ui-link-inherit" data-ajax="false">
 				 <img class="ui-li-icon ui-corner-none" src="http://lobbyplag.eu/assets/img/flags/20x15/gb.png" /><span>Mcclarkin, Emma </span>
 			   </a></li>
 <li data-filtertext="310	ie	28115	Member	Mairead Mcguinness	McGuinness, Mairead	PPE	2009		" ><a href="./mep.php?id=310" class="ui-link-inherit" data-ajax="false">
@@ -1237,7 +1237,7 @@
 <li data-filtertext="733	lv	96999	Member	Alexander Mirsky	Mirsky, Alexander 	SD	2009		" ><a href="./mep.php?id=733" class="ui-link-inherit" data-ajax="false">
 				 <img class="ui-li-icon ui-corner-none" src="http://lobbyplag.eu/assets/img/flags/20x15/lv.png" /><span>Mirsky, Alexander </span>
 			   </a></li>
-<li data-filtertext="66	gb	4519	Member	Claude Moraes	Moraes, Claude 	SD	2009		" ><a href="./mep.php?id=66" class="ui-link-inherit" data-ajax="false">
+<li data-filtertext="66	gb	4519	Member	Claude Moraes	Moraes, Claude 	SD	2009	London	     Labour	" ><a href="./mep.php?id=66" class="ui-link-inherit" data-ajax="false">
 				 <img class="ui-li-icon ui-corner-none" src="http://lobbyplag.eu/assets/img/flags/20x15/gb.png" /><span>Moraes, Claude </span>
 			   </a></li>
 <li data-filtertext="700	pt	96930	Member	Vital Moreira	Moreira, Vital 	SD	2009		" ><a href="./mep.php?id=700" class="ui-link-inherit" data-ajax="false">
@@ -1270,7 +1270,7 @@
 <li data-filtertext="326	it	1073	Member	Cristiana Muscardini	Muscardini, Cristiana 	PPE	2009		" ><a href="./mep.php?id=326" class="ui-link-inherit" data-ajax="false">
 				 <img class="ui-li-icon ui-corner-none" src="http://lobbyplag.eu/assets/img/flags/20x15/it.png" /><span>Muscardini, Cristiana </span>
 			   </a></li>
-<li data-filtertext="11	gb	28506	Member	Mike Nattrass	Nattrass, Mike 	NI	2009		" ><a href="./mep.php?id=11" class="ui-link-inherit" data-ajax="false">
+<li data-filtertext="11	gb	28506	Member	Mike Nattrass	Nattrass, Mike 	NI	2009	West Midlands	     UKIP	" ><a href="./mep.php?id=11" class="ui-link-inherit" data-ajax="false">
 				 <img class="ui-li-icon ui-corner-none" src="http://lobbyplag.eu/assets/img/flags/20x15/gb.png" /><span>Nattrass, Mike </span>
 			   </a></li>
 <li data-filtertext="327	bg	96848	Member	Mariya Nedelcheva	Nedelcheva, Mariya 	PPE	2009		" ><a href="./mep.php?id=327" class="ui-link-inherit" data-ajax="false">
@@ -1282,7 +1282,7 @@
 <li data-filtertext="547	sk	96653	Member	Katarína Neveďalová	Neveďalová, Katarína 	SD	2009		" ><a href="./mep.php?id=547" class="ui-link-inherit" data-ajax="false">
 				 <img class="ui-li-icon ui-corner-none" src="http://lobbyplag.eu/assets/img/flags/20x15/sk.png" /><span>Neveďalová, Katarína </span>
 			   </a></li>
-<li data-filtertext="165	gb	1394	Member of the Bureau	Bill Newton Dunn	Newton Dunn, Bill 	ALDE	2009		" ><a href="./mep.php?id=165" class="ui-link-inherit" data-ajax="false">
+<li data-filtertext="165	gb	1394	Member of the Bureau	Bill Newton Dunn	Newton Dunn, Bill 	ALDE	2009	East Midlands	     LibDem	" ><a href="./mep.php?id=165" class="ui-link-inherit" data-ajax="false">
 				 <img class="ui-li-icon ui-corner-none" src="http://lobbyplag.eu/assets/img/flags/20x15/gb.png" /><span>Newton Dunn, Bill </span>
 			   </a></li>
 <li data-filtertext="744	bg	96861	Member	Nadezhda Neynsky	Neynsky, Nadezhda 	PPE	2009		" ><a href="./mep.php?id=744" class="ui-link-inherit" data-ajax="false">
@@ -1291,7 +1291,7 @@
 <li data-filtertext="166	be	1946	Member	Annemie Neyts-Uyttebroeck	Neyts-Uyttebroeck, Annemie 	ALDE	2009		" ><a href="./mep.php?id=166" class="ui-link-inherit" data-ajax="false">
 				 <img class="ui-li-icon ui-corner-none" src="http://lobbyplag.eu/assets/img/flags/20x15/be.png" /><span>Neyts-Uyttebroeck, Annemie </span>
 			   </a></li>
-<li data-filtertext="196	gb	1318	Member	James Nicholson	Nicholson, James 	ECR	2009		" ><a href="./mep.php?id=196" class="ui-link-inherit" data-ajax="false">
+<li data-filtertext="196	gb	1318	Member	James Nicholson	Nicholson, James 	ECR	2009	Northern Ireland	     UCUNF	" ><a href="./mep.php?id=196" class="ui-link-inherit" data-ajax="false">
 				 <img class="ui-li-icon ui-corner-none" src="http://lobbyplag.eu/assets/img/flags/20x15/gb.png" /><span>Nicholson, James </span>
 			   </a></li>
 <li data-filtertext="409	ro	96825	Member of the Bureau	Norica Nicolai	Nicolai, Norica 	ALDE	2009		" ><a href="./mep.php?id=409" class="ui-link-inherit" data-ajax="false">
@@ -1306,7 +1306,7 @@
 <li data-filtertext="494	pl	96794	Member	Sławomir Witold Nitras	Nitras, Sławomir Witold 	PPE	2009		" ><a href="./mep.php?id=494" class="ui-link-inherit" data-ajax="false">
 				 <img class="ui-li-icon ui-corner-none" src="http://lobbyplag.eu/assets/img/flags/20x15/pl.png" /><span>Nitras, Sławomir Witold </span>
 			   </a></li>
-<li data-filtertext="735	gb	96805	Member	Paul Nuttall	Nuttall, Paul 	EFD	2009		" ><a href="./mep.php?id=735" class="ui-link-inherit" data-ajax="false">
+<li data-filtertext="735	gb	96805	Member	Paul Nuttall	Nuttall, Paul 	EFD	2009	North West England	     UKIP	" ><a href="./mep.php?id=735" class="ui-link-inherit" data-ajax="false">
 				 <img class="ui-li-icon ui-corner-none" src="http://lobbyplag.eu/assets/img/flags/20x15/gb.png" /><span>Nuttall, Paul </span>
 			   </a></li>
 <li data-filtertext="586	at	96981	Member	Franz Obermayr	Obermayr, Franz 	NI	2009		" ><a href="./mep.php?id=586" class="ui-link-inherit" data-ajax="false">
@@ -1624,10 +1624,10 @@
 <li data-filtertext="86	de	96836	Member	Peter Simon	Simon, Peter 	SD	2009		" ><a href="./mep.php?id=86" class="ui-link-inherit" data-ajax="false">
 				 <img class="ui-li-icon ui-corner-none" src="http://lobbyplag.eu/assets/img/flags/20x15/de.png" /><span>Simon, Peter </span>
 			   </a></li>
-<li data-filtertext="87	gb	1309	Member	Brian Simpson	Simpson, Brian 	SD	2009		" ><a href="./mep.php?id=87" class="ui-link-inherit" data-ajax="false">
+<li data-filtertext="87	gb	1309	Member	Brian Simpson	Simpson, Brian 	SD	2009	North West England	     Labour	" ><a href="./mep.php?id=87" class="ui-link-inherit" data-ajax="false">
 				 <img class="ui-li-icon ui-corner-none" src="http://lobbyplag.eu/assets/img/flags/20x15/gb.png" /><span>Simpson, Brian </span>
 			   </a></li>
-<li data-filtertext="13	gb	96960	Member	Nicole Sinclaire	Sinclaire, Nicole 	NI	2009		" ><a href="./mep.php?id=13" class="ui-link-inherit" data-ajax="false">
+<li data-filtertext="13	gb	96960	Member	Nicole Sinclaire	Sinclaire, Nicole 	NI	2009	West Midlands	     We Demand a Referendum	" ><a href="./mep.php?id=13" class="ui-link-inherit" data-ajax="false">
 				 <img class="ui-li-icon ui-corner-none" src="http://lobbyplag.eu/assets/img/flags/20x15/gb.png" /><span>Sinclaire, Nicole </span>
 			   </a></li>
 <li data-filtertext="660	de	96932	Member	Birgit Sippel	Sippel, Birgit 	SD	2009		" ><a href="./mep.php?id=660" class="ui-link-inherit" data-ajax="false">
@@ -1636,7 +1636,7 @@
 <li data-filtertext="556	pl	28380	Member	Marek Siwiec	Siwiec, Marek 	SD	2009		" ><a href="./mep.php?id=556" class="ui-link-inherit" data-ajax="false">
 				 <img class="ui-li-icon ui-corner-none" src="http://lobbyplag.eu/assets/img/flags/20x15/pl.png" /><span>Siwiec, Marek </span>
 			   </a></li>
-<li data-filtertext="557	gb	2081	Member	Peter Skinner	Skinner, Peter 	SD	2009		" ><a href="./mep.php?id=557" class="ui-link-inherit" data-ajax="false">
+<li data-filtertext="557	gb	2081	Member	Peter Skinner	Skinner, Peter 	SD	2009	South East England	     Labour	" ><a href="./mep.php?id=557" class="ui-link-inherit" data-ajax="false">
 				 <img class="ui-li-icon ui-corner-none" src="http://lobbyplag.eu/assets/img/flags/20x15/gb.png" /><span>Skinner, Peter </span>
 			   </a></li>
 <li data-filtertext="354	pl	96770	Member	Joanna Katarzyna Skrzydlewska	Skrzydlewska, Joanna Katarzyna 	PPE	2009		" ><a href="./mep.php?id=354" class="ui-link-inherit" data-ajax="false">
@@ -1645,7 +1645,7 @@
 <li data-filtertext="355	gr	97018	Member of the Bureau	Theodoros Skylakakis	Skylakakis, Theodoros 	ALDE	2009		" ><a href="./mep.php?id=355" class="ui-link-inherit" data-ajax="false">
 				 <img class="ui-li-icon ui-corner-none" src="http://lobbyplag.eu/assets/img/flags/20x15/gr.png" /><span>Skylakakis, Theodoros </span>
 			   </a></li>
-<li data-filtertext="574	gb	28508	Member	Alyn Smith	Smith, Alyn 	VALE	2009		" ><a href="./mep.php?id=574" class="ui-link-inherit" data-ajax="false">
+<li data-filtertext="574	gb	28508	Member	Alyn Smith	Smith, Alyn 	VALE	2009	Scotland	     SNP	" ><a href="./mep.php?id=574" class="ui-link-inherit" data-ajax="false">
 				 <img class="ui-li-icon ui-corner-none" src="http://lobbyplag.eu/assets/img/flags/20x15/gb.png" /><span>Smith, Alyn </span>
 			   </a></li>
 <li data-filtertext="558	sk	96655	Member	Monika Smolková	Smolková, Monika 	SD	2009		" ><a href="./mep.php?id=558" class="ui-link-inherit" data-ajax="false">
@@ -1675,10 +1675,10 @@
 <li data-filtertext="174	be	4243	Member of the Bureau	Dirk Sterckx	Sterckx, Dirk 	ALDE	2009		" ><a href="./mep.php?id=174" class="ui-link-inherit" data-ajax="false">
 				 <img class="ui-li-icon ui-corner-none" src="http://lobbyplag.eu/assets/img/flags/20x15/be.png" /><span>Sterckx, Dirk </span>
 			   </a></li>
-<li data-filtertext="710	gb	4546	Member	Struan Stevenson	Stevenson, Struan 	ECR	2009		" ><a href="./mep.php?id=710" class="ui-link-inherit" data-ajax="false">
+<li data-filtertext="710	gb	4546	Member	Struan Stevenson	Stevenson, Struan 	ECR	2009	Scotland	     Conservative	" ><a href="./mep.php?id=710" class="ui-link-inherit" data-ajax="false">
 				 <img class="ui-li-icon ui-corner-none" src="http://lobbyplag.eu/assets/img/flags/20x15/gb.png" /><span>Stevenson, Struan </span>
 			   </a></li>
-<li data-filtertext="560	gb	4545	Member	Catherine Stihler	Stihler, Catherine 	SD	2009		" ><a href="./mep.php?id=560" class="ui-link-inherit" data-ajax="false">
+<li data-filtertext="560	gb	4545	Member	Catherine Stihler	Stihler, Catherine 	SD	2009	Scotland	     Labour	" ><a href="./mep.php?id=560" class="ui-link-inherit" data-ajax="false">
 				 <img class="ui-li-icon ui-corner-none" src="http://lobbyplag.eu/assets/img/flags/20x15/gb.png" /><span>Stihler, Catherine </span>
 			   </a></li>
 <li data-filtertext="210	bg	34254	Member	Dimitar Stoyanov	Stoyanov, Dimitar	NI	2009		" ><a href="./mep.php?id=210" class="ui-link-inherit" data-ajax="false">
@@ -1693,7 +1693,7 @@
 <li data-filtertext="510	fr	96860	Member	Michèle Striffler	Striffler, Michèle 	PPE	2009		" ><a href="./mep.php?id=510" class="ui-link-inherit" data-ajax="false">
 				 <img class="ui-li-icon ui-corner-none" src="http://lobbyplag.eu/assets/img/flags/20x15/fr.png" /><span>Striffler, Michèle </span>
 			   </a></li>
-<li data-filtertext="198	gb	2037	Member	Robert Sturdy	Sturdy, Robert 	ECR	2009		" ><a href="./mep.php?id=198" class="ui-link-inherit" data-ajax="false">
+<li data-filtertext="198	gb	2037	Member	Robert Sturdy	Sturdy, Robert 	ECR	2009	East of England	     Conservative	" ><a href="./mep.php?id=198" class="ui-link-inherit" data-ajax="false">
 				 <img class="ui-li-icon ui-corner-none" src="http://lobbyplag.eu/assets/img/flags/20x15/gb.png" /><span>Sturdy, Robert </span>
 			   </a></li>
 <li data-filtertext="511	hu	23820	Member of the Bureau	László Surján	Surján, László 	PPE	2009		" ><a href="./mep.php?id=511" class="ui-link-inherit" data-ajax="false">
@@ -1705,7 +1705,7 @@
 <li data-filtertext="360	se	96678	Member	Alf Svensson	Svensson, Alf	PPE	2009		" ><a href="./mep.php?id=360" class="ui-link-inherit" data-ajax="false">
 				 <img class="ui-li-icon ui-corner-none" src="http://lobbyplag.eu/assets/img/flags/20x15/se.png" /><span>Svensson, Alf</span>
 			   </a></li>
-<li data-filtertext="430	gb	96920	Member	Kay Swinburne	Swinburne, Kay 	ECR	2009		" ><a href="./mep.php?id=430" class="ui-link-inherit" data-ajax="false">
+<li data-filtertext="430	gb	96920	Member	Kay Swinburne	Swinburne, Kay 	ECR	2009	Wales	     Conservative	" ><a href="./mep.php?id=430" class="ui-link-inherit" data-ajax="false">
 				 <img class="ui-li-icon ui-corner-none" src="http://lobbyplag.eu/assets/img/flags/20x15/gb.png" /><span>Swinburne, Kay </span>
 			   </a></li>
 <li data-filtertext="714	hu	96855	Member	Csanád Szegedi	Szegedi, Csanád 	NI	2009		" ><a href="./mep.php?id=714" class="ui-link-inherit" data-ajax="false">
@@ -1720,7 +1720,7 @@
 <li data-filtertext="412	fi	28316	Member	Hannu Takkula	Takkula, Hannu 	ALDE	2009		" ><a href="./mep.php?id=412" class="ui-link-inherit" data-ajax="false">
 				 <img class="ui-li-icon ui-corner-none" src="http://lobbyplag.eu/assets/img/flags/20x15/fi.png" /><span>Takkula, Hannu </span>
 			   </a></li>
-<li data-filtertext="432	gb	4521	Member	Charles Tannock	Tannock, Charles 	ECR	2009		" ><a href="./mep.php?id=432" class="ui-link-inherit" data-ajax="false">
+<li data-filtertext="432	gb	4521	Member	Charles Tannock	Tannock, Charles 	ECR	2009	London	     Conservative		" ><a href="./mep.php?id=432" class="ui-link-inherit" data-ajax="false">
 				 <img class="ui-li-icon ui-corner-none" src="http://lobbyplag.eu/assets/img/flags/20x15/gb.png" /><span>Tannock, Charles </span>
 			   </a></li>
 <li data-filtertext="91	be	29579	Member	Marc Tarabella	Tarabella, Marc 	SD	2009		" ><a href="./mep.php?id=91" class="ui-link-inherit" data-ajax="false">
@@ -1735,7 +1735,7 @@
 <li data-filtertext="389	pt	96821	Member	Rui Tavares	Tavares, Rui 	VALE	2009		" ><a href="./mep.php?id=389" class="ui-link-inherit" data-ajax="false">
 				 <img class="ui-li-icon ui-corner-none" src="http://lobbyplag.eu/assets/img/flags/20x15/pt.png" /><span>Tavares, Rui </span>
 			   </a></li>
-<li data-filtertext="750	gb	102931	Member	Keith Taylor	Taylor, Keith 	VALE	2009		" ><a href="./mep.php?id=750" class="ui-link-inherit" data-ajax="false">
+<li data-filtertext="750	gb	102931	Member	Keith Taylor	Taylor, Keith 	VALE	2009	South East England	     Greens (E&W)		" ><a href="./mep.php?id=750" class="ui-link-inherit" data-ajax="false">
 				 <img class="ui-li-icon ui-corner-none" src="http://lobbyplag.eu/assets/img/flags/20x15/gb.png" /><span>Taylor, Keith </span>
 			   </a></li>
 <li data-filtertext="589	ro	96847	Member	Claudiu Ciprian Tănăsescu	Tănăsescu, Claudiu Ciprian 	SD	2009		" ><a href="./mep.php?id=589" class="ui-link-inherit" data-ajax="false">
@@ -1834,7 +1834,7 @@
 <li data-filtertext="330	nl	28165	Member of the Bureau	Lambert van Nistelrooij	van Nistelrooij, Lambert 	PPE	2009		" ><a href="./mep.php?id=330" class="ui-link-inherit" data-ajax="false">
 				 <img class="ui-li-icon ui-corner-none" src="http://lobbyplag.eu/assets/img/flags/20x15/nl.png" /><span>van Nistelrooij, Lambert </span>
 			   </a></li>
-<li data-filtertext="433	gb	4513	Member of the Bureau	Geoffrey Van Orden	Van Orden, Geoffrey 	ECR	2009		" ><a href="./mep.php?id=433" class="ui-link-inherit" data-ajax="false">
+<li data-filtertext="433	gb	4513	Member of the Bureau	Geoffrey Van Orden	Van Orden, Geoffrey 	ECR	2009	East of England	     Conservative	" ><a href="./mep.php?id=433" class="ui-link-inherit" data-ajax="false">
 				 <img class="ui-li-icon ui-corner-none" src="http://lobbyplag.eu/assets/img/flags/20x15/gb.png" /><span>Van Orden, Geoffrey </span>
 			   </a></li>
 <li data-filtertext="393	be	1956	Member	Frank Vanhecke	Vanhecke, Frank 	NI	2009		" ><a href="./mep.php?id=393" class="ui-link-inherit" data-ajax="false">
@@ -1843,7 +1843,7 @@
 <li data-filtertext="416	it	4398	Member	Gianni Vattimo	Vattimo, Gianni 	ALDE	2009		" ><a href="./mep.php?id=416" class="ui-link-inherit" data-ajax="false">
 				 <img class="ui-li-icon ui-corner-none" src="http://lobbyplag.eu/assets/img/flags/20x15/it.png" /><span>Vattimo, Gianni </span>
 			   </a></li>
-<li data-filtertext="96	gb	96918	Member	Derek Vaughan	Vaughan, Derek 	SD	2009		" ><a href="./mep.php?id=96" class="ui-link-inherit" data-ajax="false">
+<li data-filtertext="96	gb	96918	Member	Derek Vaughan	Vaughan, Derek 	SD	2009	Wales	     Labour	" ><a href="./mep.php?id=96" class="ui-link-inherit" data-ajax="false">
 				 <img class="ui-li-icon ui-corner-none" src="http://lobbyplag.eu/assets/img/flags/20x15/gb.png" /><span>Vaughan, Derek </span>
 			   </a></li>
 <li data-filtertext="97	fr	28177	Member	Bernadette Vergnaud	Vergnaud, Bernadette 	SD	2009		" ><a href="./mep.php?id=97" class="ui-link-inherit" data-ajax="false">
@@ -1870,7 +1870,7 @@
 <li data-filtertext="367	pl	96774	Member	Jarosław Leszek Wałęsa	Wałęsa, Jarosław Leszek 	PPE	2009		" ><a href="./mep.php?id=367" class="ui-link-inherit" data-ajax="false">
 				 <img class="ui-li-icon ui-corner-none" src="http://lobbyplag.eu/assets/img/flags/20x15/pl.png" /><span>Wałęsa, Jarosław Leszek </span>
 			   </a></li>
-<li data-filtertext="417	gb	2155	Member of the Bureau	Sir Graham Watson	Watson, Sir Graham 	ALDE	2009		" ><a href="./mep.php?id=417" class="ui-link-inherit" data-ajax="false">
+<li data-filtertext="417	gb	2155	Member of the Bureau	Sir Graham Watson	Watson, Sir Graham 	ALDE	2009	South West England	     LibDem	" ><a href="./mep.php?id=417" class="ui-link-inherit" data-ajax="false">
 				 <img class="ui-li-icon ui-corner-none" src="http://lobbyplag.eu/assets/img/flags/20x15/gb.png" /><span>Watson, Sir Graham </span>
 			   </a></li>
 <li data-filtertext="201	pl	96802	Member	Jacek Włosowicz	Włosowicz, Jacek 	ECR	2009		" ><a href="./mep.php?id=201" class="ui-link-inherit" data-ajax="false">
@@ -1912,7 +1912,7 @@
 <li data-filtertext="434	pl	23784	Member	Janusz Wojciechowski	Wojciechowski, Janusz 	ECR	2009		" ><a href="./mep.php?id=434" class="ui-link-inherit" data-ajax="false">
 				 <img class="ui-li-icon ui-corner-none" src="http://lobbyplag.eu/assets/img/flags/20x15/pl.png" /><span>Wojciechowski, Janusz </span>
 			   </a></li>
-<li data-filtertext="202	gb	96944	Member	Marina Yannakoudakis	Yannakoudakis, Marina 	ECR	2009		" ><a href="./mep.php?id=202" class="ui-link-inherit" data-ajax="false">
+<li data-filtertext="202	gb	96944	Member	Marina Yannakoudakis	Yannakoudakis, Marina 	ECR	2009	London	     Conservative	" ><a href="./mep.php?id=202" class="ui-link-inherit" data-ajax="false">
 				 <img class="ui-li-icon ui-corner-none" src="http://lobbyplag.eu/assets/img/flags/20x15/gb.png" /><span>Yannakoudakis, Marina </span>
 			   </a></li>
 <li data-filtertext="705	es	28278	Member	Luis Yáñez-Barnuevo García	Yáñez-Barnuevo García, Luis 	SD	2009		" ><a href="./mep.php?id=705" class="ui-link-inherit" data-ajax="false">
@@ -1951,7 +1951,7 @@
 <li data-filtertext="69	lt	28279	Member	Justas Vincas Paleckis	Paleckis, Justas Vincas 	SD	2009		" ><a href="./mep.php?id=69" class="ui-link-inherit" data-ajax="false">
 				 <img class="ui-li-icon ui-corner-none" src="http://lobbyplag.eu/assets/img/flags/20x15/lt.png" /><span>Paleckis, Justas Vincas </span>
 			   </a></li>
-<li data-filtertext="205	gb	28511	Member of the Bureau	Bairbre de Brún	de Brún, Bairbre 	GUENGL	2009		" ><a href="./mep.php?id=205" class="ui-link-inherit" data-ajax="false">
+<li data-filtertext="205	gb	28511	Member of the Bureau	Bairbre de Brún	de Brún, Bairbre 	GUENGL	2009	Northern Ireland	     Sinn Féin	" ><a href="./mep.php?id=205" class="ui-link-inherit" data-ajax="false">
 				 <img class="ui-li-icon ui-corner-none" src="http://lobbyplag.eu/assets/img/flags/20x15/gb.png" /><span>de Brún, Bairbre </span>
 			   </a></li>
 <li data-filtertext="447	fr	96735	Vice-Chair	Patrick Le Hyaric	Le Hyaric, Patrick 	GUENGL	2009		" ><a href="./mep.php?id=447" class="ui-link-inherit" data-ajax="false">
@@ -2014,10 +2014,10 @@
 <li data-filtertext="373	sk	23894	Member of the Bureau	Anna Záborská	Záborská, Anna 	PPE	2009		" ><a href="./mep.php?id=373" class="ui-link-inherit" data-ajax="false">
 				 <img class="ui-li-icon ui-corner-none" src="http://lobbyplag.eu/assets/img/flags/20x15/sk.png" /><span>Záborská, Anna </span>
 			   </a></li>
-<li data-filtertext="604	gb	1405	Member	Edward Mcmillan-Scott	McMillan-Scott, Edward	ALDE	2009		" ><a href="./mep.php?id=604" class="ui-link-inherit" data-ajax="false">
+<li data-filtertext="604	gb	1405	Member	Edward Mcmillan-Scott	McMillan-Scott, Edward	ALDE	2009	Yorkshire and the Humber	     LibDem	" ><a href="./mep.php?id=604" class="ui-link-inherit" data-ajax="false">
 				 <img class="ui-li-icon ui-corner-none" src="http://lobbyplag.eu/assets/img/flags/20x15/gb.png" /><span>McMillan-Scott, Edward</span>
 			   </a></li>
-<li data-filtertext="179	gb	4544	Member of the Bureau	Diana Wallis	Wallis, Diana 	ALDE	2009		" ><a href="./mep.php?id=179" class="ui-link-inherit" data-ajax="false">
+<li data-filtertext="179	gb	4544	Member of the Bureau	Diana Wallis	Wallis, Diana 	ALDE	2009	Yorkshire and the Humber	     LibDem	" ><a href="./mep.php?id=179" class="ui-link-inherit" data-ajax="false">
 				 <img class="ui-li-icon ui-corner-none" src="http://lobbyplag.eu/assets/img/flags/20x15/gb.png" /><span>Wallis, Diana </span>
 			   </a></li>
 <li data-filtertext="169	bg	34234	Vice-Chair	Antonyia Parvanova	Parvanova, Antonyia 	ALDE	2009		" ><a href="./mep.php?id=169" class="ui-link-inherit" data-ajax="false">
@@ -2044,7 +2044,7 @@
 <li data-filtertext="380	pt	28310	Member	Edite Estrela	Estrela, Edite 	SD	2009		" ><a href="./mep.php?id=380" class="ui-link-inherit" data-ajax="false">
 				 <img class="ui-li-icon ui-corner-none" src="http://lobbyplag.eu/assets/img/flags/20x15/pt.png" /><span>Estrela, Edite </span>
 			   </a></li>
-<li data-filtertext="634	gb	35743	Member	Glenis Willmott	Willmott, Glenis 	SD	2009		" ><a href="./mep.php?id=634" class="ui-link-inherit" data-ajax="false">
+<li data-filtertext="634	gb	35743	Member	Glenis Willmott	Willmott, Glenis 	SD	2009	East Midlands	     Labour	" ><a href="./mep.php?id=634" class="ui-link-inherit" data-ajax="false">
 				 <img class="ui-li-icon ui-corner-none" src="http://lobbyplag.eu/assets/img/flags/20x15/gb.png" /><span>Willmott, Glenis </span>
 			   </a></li>
 <li data-filtertext="382	ro	96857	Member	Cătălin Sorin Ivan	Ivan, Cătălin Sorin 	SD	2009		" ><a href="./mep.php?id=382" class="ui-link-inherit" data-ajax="false">
@@ -2068,7 +2068,7 @@
 <li data-filtertext="419	pl	23788	Vice-Chair	Adam Bielan	Bielan, Adam 	ECR	2009		" ><a href="./mep.php?id=419" class="ui-link-inherit" data-ajax="false">
 				 <img class="ui-li-icon ui-corner-none" src="http://lobbyplag.eu/assets/img/flags/20x15/pl.png" /><span>Bielan, Adam </span>
 			   </a></li>
-<li data-filtertext="424	gb	96957	Member of the Bureau	Ashley Fox	Fox, Ashley 	ECR	2009		" ><a href="./mep.php?id=424" class="ui-link-inherit" data-ajax="false">
+<li data-filtertext="424	gb	96957	Member of the Bureau	Ashley Fox	Fox, Ashley 	ECR	2009	North West England	     Conservative	" ><a href="./mep.php?id=424" class="ui-link-inherit" data-ajax="false">
 				 <img class="ui-li-icon ui-corner-none" src="http://lobbyplag.eu/assets/img/flags/20x15/gb.png" /><span>Fox, Ashley </span>
 			   </a></li>
 <li data-filtertext="293	bg	97968	Member of the Bureau	Andrey Kovatchev	Kovatchev, Andrey 	PPE	2009		" ><a href="./mep.php?id=293" class="ui-link-inherit" data-ajax="false">
@@ -2137,13 +2137,13 @@
 <li data-filtertext="448	nl	28182	Vice-Chair	Kartika Tamara Liotard	Liotard, Kartika Tamara 	GUENGL	2009		" ><a href="./mep.php?id=448" class="ui-link-inherit" data-ajax="false">
 				 <img class="ui-li-icon ui-corner-none" src="http://lobbyplag.eu/assets/img/flags/20x15/nl.png" /><span>Liotard, Kartika Tamara </span>
 			   </a></li>
-<li data-filtertext="672	gb	28513	Member	Godfrey Bloom	Bloom, Godfrey 	EFD	2009		" ><a href="./mep.php?id=672" class="ui-link-inherit" data-ajax="false">
+<li data-filtertext="672	gb	28513	Member	Godfrey Bloom	Bloom, Godfrey 	EFD	2009	Yorkshire and the Humber	     Independent	" ><a href="./mep.php?id=672" class="ui-link-inherit" data-ajax="false">
 				 <img class="ui-li-icon ui-corner-none" src="http://lobbyplag.eu/assets/img/flags/20x15/gb.png" /><span>Bloom, Godfrey </span>
 			   </a></li>
 <li data-filtertext="595	pl	96796	Vice-Chair	Ryszard Antoni Legutko	Legutko, Ryszard Antoni 	ECR	2009		" ><a href="./mep.php?id=595" class="ui-link-inherit" data-ajax="false">
 				 <img class="ui-li-icon ui-corner-none" src="http://lobbyplag.eu/assets/img/flags/20x15/pl.png" /><span>Legutko, Ryszard Antoni </span>
 			   </a></li>
-<li data-filtertext="193	gb	4542	Deputy Chair	Timothy Kirkhope	Kirkhope, Timothy 	ECR	2009		" ><a href="./mep.php?id=193" class="ui-link-inherit" data-ajax="false">
+<li data-filtertext="193	gb	4542	Deputy Chair	Timothy Kirkhope	Kirkhope, Timothy 	ECR	2009	Yorkshire and the Humber	     Conservative	" ><a href="./mep.php?id=193" class="ui-link-inherit" data-ajax="false">
 				 <img class="ui-li-icon ui-corner-none" src="http://lobbyplag.eu/assets/img/flags/20x15/gb.png" /><span>Kirkhope, Timothy </span>
 			   </a></li>
 <li data-filtertext="251	de	1917	Member of the Bureau	Markus Ferber	Ferber, Markus 	PPE	2009		" ><a href="./mep.php?id=251" class="ui-link-inherit" data-ajax="false">
@@ -2182,7 +2182,7 @@
 <li data-filtertext="73	ro	38595	Vice-Chair	Rovana Plumb	Plumb, Rovana 	SD	2009		" ><a href="./mep.php?id=73" class="ui-link-inherit" data-ajax="false">
 				 <img class="ui-li-icon ui-corner-none" src="http://lobbyplag.eu/assets/img/flags/20x15/ro.png" /><span>Plumb, Rovana </span>
 			   </a></li>
-<li data-filtertext="540	gb	1407	Vice-Chair	Stephen Hughes	Hughes, Stephen 	SD	2009		" ><a href="./mep.php?id=540" class="ui-link-inherit" data-ajax="false">
+<li data-filtertext="540	gb	1407	Vice-Chair	Stephen Hughes	Hughes, Stephen 	SD	2009	North East England	     Labour	" ><a href="./mep.php?id=540" class="ui-link-inherit" data-ajax="false">
 				 <img class="ui-li-icon ui-corner-none" src="http://lobbyplag.eu/assets/img/flags/20x15/gb.png" /><span>Hughes, Stephen </span>
 			   </a></li>
 <li data-filtertext="385	pt	4466	Vice-Chair	Ilda Figueiredo	Figueiredo, Ilda 	GUENGL	2009		" ><a href="./mep.php?id=385" class="ui-link-inherit" data-ajax="false">
@@ -2191,7 +2191,7 @@
 <li data-filtertext="457	se	28134	Vice-Chair	Eva-Britt Svensson	Svensson, Eva-Britt	GUENGL	2009		" ><a href="./mep.php?id=457" class="ui-link-inherit" data-ajax="false">
 				 <img class="ui-li-icon ui-corner-none" src="http://lobbyplag.eu/assets/img/flags/20x15/se.png" /><span>Svensson, Eva-Britt</span>
 			   </a></li>
-<li data-filtertext="10	gb	4525	Co-Chair	Nigel Farage	Farage, Nigel 	EFD	2009		" ><a href="./mep.php?id=10" class="ui-link-inherit" data-ajax="false">
+<li data-filtertext="10	gb	4525	Co-Chair	Nigel Farage	Farage, Nigel 	EFD	2009	South East England	     UKIP	" ><a href="./mep.php?id=10" class="ui-link-inherit" data-ajax="false">
 				 <img class="ui-li-icon ui-corner-none" src="http://lobbyplag.eu/assets/img/flags/20x15/gb.png" /><span>Farage, Nigel </span>
 			   </a></li>
 <li data-filtertext="435	cz	23712	Chair	Jan Zahradil	Zahradil, Jan 	ECR	2009		" ><a href="./mep.php?id=435" class="ui-link-inherit" data-ajax="false">
@@ -2254,7 +2254,7 @@
 <li data-filtertext="778	se	108570		Amelia Andersdotter	Andersdotter, Amelia	VALE	2009		" ><a href="./mep.php?id=778" class="ui-link-inherit" data-ajax="false">
 				 <img class="ui-li-icon ui-corner-none" src="http://lobbyplag.eu/assets/img/flags/20x15/se.png" /><span>Andersdotter, Amelia</span>
 			   </a></li>
-<li data-filtertext="811	gb	113959		Martina Anderson	Anderson, Martina	VALE	2009		" ><a href="./mep.php?id=811" class="ui-link-inherit" data-ajax="false">
+<li data-filtertext="811	gb	113959		Martina Anderson	Anderson, Martina	VALE	2009	Northern Ireland	     Sinn Féin	" ><a href="./mep.php?id=811" class="ui-link-inherit" data-ajax="false">
 				 <img class="ui-li-icon ui-corner-none" src="http://lobbyplag.eu/assets/img/flags/20x15/gb.png" /><span>Anderson, Martina</span>
 			   </a></li>
 <li data-filtertext="807	fr	113892		Eric Andrieu	Andrieu, Eric	SD	2009		" ><a href="./mep.php?id=807" class="ui-link-inherit" data-ajax="false">
@@ -2281,7 +2281,7 @@
 <li data-filtertext="808	hu	113883		Erik BÃ¡nki	BÃ¡nki, Erik	PPE	2009		" ><a href="./mep.php?id=808" class="ui-link-inherit" data-ajax="false">
 				 <img class="ui-li-icon ui-corner-none" src="http://lobbyplag.eu/assets/img/flags/20x15/hu.png" /><span>BÃ¡nki, Erik</span>
 			   </a></li>
-<li data-filtertext="800	gb	112014		Phil Bennion	Bennion, Phil	ALDE	2009		" ><a href="./mep.php?id=800" class="ui-link-inherit" data-ajax="false">
+<li data-filtertext="800	gb	112014		Phil Bennion	Bennion, Phil	ALDE	2009	West Midlands	     LibDem	" ><a href="./mep.php?id=800" class="ui-link-inherit" data-ajax="false">
 				 <img class="ui-li-icon ui-corner-none" src="http://lobbyplag.eu/assets/img/flags/20x15/gb.png" /><span>Bennion, Phil</span>
 			   </a></li>
 <li data-filtertext="812	fr	96947		Nora Berra	Berra, Nora	SD	2009		" ><a href="./mep.php?id=812" class="ui-link-inherit" data-ajax="false">
@@ -2398,7 +2398,7 @@
 <li data-filtertext="303	pl	23781	Member	Janusz Lewandowski	Lewandowski, Janusz 	PPE	2009		" ><a href="./mep.php?id=303" class="ui-link-inherit" data-ajax="false">
 				 <img class="ui-li-icon ui-corner-none" src="http://lobbyplag.eu/assets/img/flags/20x15/pl.png" /><span>Lewandowski, Janusz </span>
 			   </a></li>
-<li data-filtertext="572	gb	4524	Member	Caroline Lucas	Lucas, Caroline 	VALE	2009		" ><a href="./mep.php?id=572" class="ui-link-inherit" data-ajax="false">
+<li data-filtertext="572	gb	4524	Member	Caroline Lucas	Lucas, Caroline 	VALE	2009	South East England	     Greens (E&W)	" ><a href="./mep.php?id=572" class="ui-link-inherit" data-ajax="false">
 				 <img class="ui-li-icon ui-corner-none" src="http://lobbyplag.eu/assets/img/flags/20x15/gb.png" /><span>Lucas, Caroline </span>
 			   </a></li>
 <li data-filtertext="833	Bg	37524		Marusya Lyubcheva	Lyubcheva, Marusya	SD	2009		" ><a href="./mep.php?id=833" class="ui-link-inherit" data-ajax="false">
@@ -2410,7 +2410,7 @@
 <li data-filtertext="785	sl	39916		Zofija Mazej KukoviÄ	Mazej KukoviÄ, Zofija	PPE	2009		" ><a href="./mep.php?id=785" class="ui-link-inherit" data-ajax="false">
 				 <img class="ui-li-icon ui-corner-none" src="http://lobbyplag.eu/assets/img/flags/20x15/sl.png" /><span>Mazej KukoviÄ, Zofija</span>
 			   </a></li>
-<li data-filtertext="783	gb	111011		Anthea McIntyre	McIntyre, Anthea	ECR	2009		" ><a href="./mep.php?id=783" class="ui-link-inherit" data-ajax="false">
+<li data-filtertext="783	gb	111011		Anthea McIntyre	McIntyre, Anthea	ECR	2009	West Midlands	     Conservative		" ><a href="./mep.php?id=783" class="ui-link-inherit" data-ajax="false">
 				 <img class="ui-li-icon ui-corner-none" src="http://lobbyplag.eu/assets/img/flags/20x15/gb.png" /><span>McIntyre, Anthea</span>
 			   </a></li>
 <li data-filtertext="831	mt	118859		Roberta Metsola	Metsola, Roberta	PPE	2009		" ><a href="./mep.php?id=831" class="ui-link-inherit" data-ajax="false">
