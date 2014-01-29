@@ -32,14 +32,15 @@
     $.each(topics, function (i0, v0) {
       $.each(v0.votings, function (i, v) {
         votings[v.v_dbid] = v;
+        votings[v.v_dbid].topicweight = v0.weight;
       });
     });
     wsum = 0;
     vsum = 0;
     $.each(mepvotes, function( index, value ) {
       if ((votings[value.v_dbid] != 'undefined') && (value.exists)) {
-        wsum += votings[value.v_dbid].v_weight;
-        var curval = votings[value.v_dbid].v_weight*parseInt(value.vote)*parseInt(votings[value.v_dbid].v_recommendation);
+        wsum += votings[value.v_dbid].v_weight*votings[value.v_dbid].topicweight;
+        var curval = votings[value.v_dbid].v_weight*votings[value.v_dbid].topicweight*parseInt(value.vote)*parseInt(votings[value.v_dbid].v_recommendation);
         vsum += curval;
         votings[value.v_dbid].v_score = curval;
       }
