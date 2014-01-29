@@ -14,7 +14,7 @@
 	<script src="http://demos.jquerymobile.com/1.4.0/js/jquery.mobile-1.4.0.min.js"></script>
 	<script src="common.js"></script>	
 	<script>
-	  var mepids = [340,664];
+	  var mepids = [Math.ceil(Math.random()*850),Math.ceil(Math.random()*850)];
 	  
 	  $( document ).delegate("#mepPage", "pageinit", function() {
 	    $.ajax({
